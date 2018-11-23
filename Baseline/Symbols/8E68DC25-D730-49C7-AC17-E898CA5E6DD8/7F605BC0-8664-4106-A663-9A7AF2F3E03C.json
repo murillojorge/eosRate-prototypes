@@ -1,0 +1,56 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "7F605BC0-8664-4106-A663-9A7AF2F3E03C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "CA376C8D-C02C-49AB-837F-3CADF90E13EF",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9DAE9E10-1AF8-48CE-8A19-36353864FF84",
+    "height": 24,
+    "width": 40,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Rail",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1AB1ADCA-B24D-4F4E-BA24-6AF7C4940DC8",
+      "overrideName": "FC4F5745-4127-484C-95E3-6FB3D7B34FFD_symbolID",
+      "value": "918D4F4E-75BA-4529-AA0C-74805D2BE784"
+    }
+  ],
+  "resizingConstraint": 44,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "4458AB6B-AAB8-4B0E-9BCE-B78E289E1154",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "F4061061-0505-4868-AADC-960DB0A576D6",
+  "verticalSpacing": 0
+}

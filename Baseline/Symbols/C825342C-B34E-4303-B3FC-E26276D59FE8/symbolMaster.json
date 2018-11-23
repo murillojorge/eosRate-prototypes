@@ -1,0 +1,110 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "339561FD-1233-4F8F-A0BB-9F3A9E76F6A3",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 1874,
+  "do_objectID": "C825342C-B34E-4303-B3FC-E26276D59FE8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B7E91040-ADB9-487F-BCFD-7F1277A8EEAF",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "84A2755D-AA20-4D12-A554-FECF04A061A2",
+    "height": 56,
+    "width": 98,
+    "x": 10298,
+    "y": 96
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "gridSize": 4,
+    "isEnabled": true,
+    "thickGridTimes": 40
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "1FCD32C0-C8BC-4761-B394-62D4C57C9197",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "93D7DD02-4552-4583-B3C7-DFE9231C03C2"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1ABB7063-7857-4E14-A392-FF30273F9C39"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "31285370-124D-4A0A-A4C8-F8CB517B3593"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 48,
+    "drawHorizontal": true,
+    "drawHorizontalLines": false,
+    "drawVertical": false,
+    "gutterHeight": 4,
+    "gutterWidth": 2904,
+    "guttersOutside": false,
+    "horizontalOffset": -123,
+    "isEnabled": false,
+    "numberOfColumns": 2,
+    "rowHeightMultiplication": 1,
+    "totalWidth": 3000
+  },
+  "name": "Bottom Navigation / Elements / Inactive / Hover",
+  "nameIsFixed": true,
+  "resizesContent": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "AB64388E-43C0-4FE4-A307-6F274F2E2515",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "54A37BAF-9462-4C3C-8F2E-82C8F0D6C624",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "31F88AE7-158A-4C0C-A93A-3C037DD6C0DF",
+    "guides": [
+    ]
+  }
+}

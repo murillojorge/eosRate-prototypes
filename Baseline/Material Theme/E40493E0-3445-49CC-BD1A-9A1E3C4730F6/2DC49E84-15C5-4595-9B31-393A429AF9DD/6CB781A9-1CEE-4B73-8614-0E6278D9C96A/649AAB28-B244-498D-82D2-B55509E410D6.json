@@ -1,0 +1,84 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "649AAB28-B244-498D-82D2-B55509E410D6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "AF1997A9-8050-4B28-94AB-C56EBA8513B9",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4D08AA7C-3100-4E61-AC49-9103CFB306D6",
+    "height": 88,
+    "width": 360,
+    "x": 0,
+    "y": 295
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "List / Three Line / Image 16:9",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "8BDEA6FC-49B9-4460-ABFE-31596F140F79",
+      "overrideName": "6941B21C-2461-4016-9BA5-A3BD226E7FF0/4A2129E9-B3B2-49C3-8308-9061B81C51F2_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "CBC4A90A-D92C-47EA-93C4-31EADD87ECC6",
+      "overrideName": "6941B21C-2461-4016-9BA5-A3BD226E7FF0/60970987-D5DF-459E-B1EF-923FBAE2F1B6_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/91e998759ff091cf48390af445a532b4a4782d72.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "EDAF99B6-2C55-430D-99F0-6EF977F7371F",
+      "overrideName": "FA73609C-8CCD-47F6-A72A-76858F4E8E5A/A8C7EBC3-17C9-4B61-9157-9F005D7E12B5_stringValue",
+      "value": "Tangerine salad"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "FC293DE9-801C-43AE-9235-ECE3A3BBB473",
+      "overrideName": "2A9BC824-5B5F-4E8F-B190-AB9435449582/6BA8FF8C-07E7-4852-86E1-C403C029467F_stringValue",
+      "value": "Cut five tangerines for a zesty dessert salad\n"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "AEEB5A6C-C82D-4BAC-9E62-C2AB6B9C1F79",
+      "overrideName": "A653423D-6C3D-4975-B7C3-449BE3F2857D_symbolID",
+      "value": ""
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "AF7E49C3-9E2C-4FC4-A66E-2973305D3C91",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "AE1EE11D-8063-4736-847A-9377AED798B9",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,55 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "E44AC053-436F-480D-BF9D-4EABFC130DD8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "265984AA-1F8C-43F2-9711-CB0A50AEA045",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "FB563C47-F99A-4FF4-BCA6-93F18ADB04BA",
+    "height": 14,
+    "width": 16,
+    "x": 4,
+    "y": 5
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "B28912A8-6366-4A6A-B353-CFB7E4AD1722"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0928C67C-EA2E-4729-B3A2-0D170083E499"
+    }
+  ],
+  "name": "↳ Color Light",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C376DDA3-839F-4701-BF40-2E04BB9E65EC",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

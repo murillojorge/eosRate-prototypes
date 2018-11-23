@@ -1,0 +1,138 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.5903220663265306,
+    "do_objectID": "C0EA3FD6-D713-42B9-A90C-3B4995CF5276",
+    "green": 0.5903220663265306,
+    "red": 0.5903220663265306
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 16361,
+  "do_objectID": "CB282BB4-CFCF-4B7F-8DAB-E8EE4680B209",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "674FB638-8D34-43BA-9EC1-F267E3F71A26",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "00954738-098E-4EFB-9129-640AC671FE9E",
+    "height": 40,
+    "width": 360,
+    "x": 1980,
+    "y": 240
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "gridSize": 4,
+    "isEnabled": true,
+    "thickGridTimes": 40
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "9BD8565A-18C9-4F45-A24A-B0E90A5CF25F",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": false,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "014F61C6-E2B0-4ED4-BA51-380A63E40952"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "83B8165B-FB60-414F-8291-94A4751739DE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A1A377B3-8775-4C5C-A2AE-CCE23701FE07"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1BFFCB72-D0A5-4629-B194-E948E8341069"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F0D87A45-49CD-4231-B47A-2D8128DE0BD5"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 48,
+    "drawHorizontal": true,
+    "drawHorizontalLines": false,
+    "drawVertical": false,
+    "gutterHeight": 4,
+    "gutterWidth": 2904,
+    "guttersOutside": false,
+    "horizontalOffset": -123,
+    "isEnabled": false,
+    "numberOfColumns": 2,
+    "rowHeightMultiplication": 1,
+    "totalWidth": 3000
+  },
+  "name": "App Bar / Elements / Icons On Primary / Positioned Right / 3 Up with Close",
+  "nameIsFixed": true,
+  "resizesContent": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "1F0BE28D-9D5C-4F38-939D-BFB99E99CDF7",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "46EB2829-C899-4E89-90C0-391051713CDD",
+  "userInfo": {
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "54027488-A017-4002-BE5B-263846B43004",
+    "guides": [
+    ]
+  }
+}

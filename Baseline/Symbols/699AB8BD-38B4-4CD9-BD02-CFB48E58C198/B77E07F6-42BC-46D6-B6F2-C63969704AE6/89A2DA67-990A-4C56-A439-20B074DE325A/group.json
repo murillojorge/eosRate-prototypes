@@ -1,0 +1,59 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "89A2DA67-990A-4C56-A439-20B074DE325A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F482A72A-BE2F-4F83-A95F-15027C817B66",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "AC8674AF-E0E9-4D5B-8975-EC7A1D8F186F",
+    "height": 128,
+    "width": 176,
+    "x": 8,
+    "y": 32
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "09B2E061-C525-4BAB-84DE-C2E73C22570C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "8A629F65-A074-4208-9245-C686AC378879"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C93DE19B-C66E-4B81-BC81-E5B660188A39"
+    }
+  ],
+  "name": "Background material",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "45548D85-7F8A-456E-83D9-C6B14DFC6B14",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

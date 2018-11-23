@@ -1,0 +1,55 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "2721B817-A550-4CFD-A664-5B35822B7296",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2A8ED23B-4C33-4600-B990-77CFDA453DC9",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "49AC375E-2118-4AB7-B11B-C56212168AF4",
+    "height": 192,
+    "width": 192,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "AEC19E74-2BFA-45EC-B7EE-B2E2214B17E2"
+    },
+    {
+      "class": "group",
+      "id": "93162502-0C41-4D7E-9A4B-F7C85E8E9C2B"
+    }
+  ],
+  "name": "Grid",
+  "nameIsFixed": true,
+  "resizingConstraint": 45,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "232CAD1C-6D0C-4FCE-9E31-5F822DFAE926",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

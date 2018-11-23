@@ -1,0 +1,55 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "D7A2BFCE-1DB5-4B88-9F16-1AAC9FE7EDCE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B262ED57-FAD5-493E-8795-B72FAF58D7D6",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4682C7E0-447C-43D6-A79C-BA374B8D4D18",
+    "height": 20,
+    "width": 18,
+    "x": 3,
+    "y": 2
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "C457F657-CBD9-4EEC-9299-024EE9DB3F66"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "39F06C54-26B4-4C71-A624-5494202C83B1"
+    }
+  ],
+  "name": "↳ Color Dark",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "577548F7-420C-4870-B6D2-4B85000AB3C2",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

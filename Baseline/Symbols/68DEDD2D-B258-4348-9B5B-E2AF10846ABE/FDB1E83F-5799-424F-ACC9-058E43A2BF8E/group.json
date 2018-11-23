@@ -1,0 +1,59 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "FDB1E83F-5799-424F-ACC9-058E43A2BF8E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0203047A-A2BF-4AD5-AE0F-3A1F9797EC4D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A6BE1D7D-C192-46F4-ABA8-DE85300E5CFE",
+    "height": 48,
+    "width": 90,
+    "x": 4,
+    "y": 4
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "60D97E6D-0723-422F-81E1-B7BC4AC71BEB"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "92473FCA-8BFC-4087-8244-697C2DF68466"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8F85F380-8EB1-45FB-AE49-524740037410"
+    }
+  ],
+  "name": "Icon and Label",
+  "nameIsFixed": true,
+  "resizingConstraint": 42,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "EB6F0717-8BD5-4550-A5F4-EAFC1A3E47B1",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

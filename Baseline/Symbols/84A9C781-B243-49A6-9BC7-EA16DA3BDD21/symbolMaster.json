@@ -1,0 +1,141 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.8980392156862745,
+    "do_objectID": "D8B467B4-C53A-442B-BBDC-C0FAE4C38D03",
+    "green": 0.8980392156862745,
+    "red": 0.8980392156862745
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 12598,
+  "do_objectID": "84A9C781-B243-49A6-9BC7-EA16DA3BDD21",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "AB039644-E8A1-486D-8B30-A7B5D6D89D58",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "DDB5D60F-D63C-423D-84D9-75C06F93E31A",
+    "height": 48,
+    "width": 48,
+    "x": 12924,
+    "y": 880
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "gridSize": 4,
+    "isEnabled": true,
+    "thickGridTimes": 40
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "D2AE07DD-C207-4269-A252-267795613552",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": false,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "783655BA-AE27-4851-B4B9-BF58C603D8C2"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D7C46800-705F-4ED6-8E6E-0BA64E139FCC"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "DDD93EB1-AE5B-4505-A41C-40B514A178E2"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "EBBB17FA-0275-4926-ADB1-BE71BD644718"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8C9D0766-2F29-4812-A0C2-7E5280D3F709"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 48,
+    "drawHorizontal": true,
+    "drawHorizontalLines": false,
+    "drawVertical": false,
+    "gutterHeight": 4,
+    "gutterWidth": 2904,
+    "guttersOutside": false,
+    "horizontalOffset": -123,
+    "isEnabled": false,
+    "numberOfColumns": 2,
+    "rowHeightMultiplication": 1,
+    "totalWidth": 3000
+  },
+  "name": "Buttons / Toggle / Elements / Middle / Hover",
+  "nameIsFixed": true,
+  "resizesContent": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C27B60F4-B36A-4BC2-82F7-A70C794674FC",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "1B0C7ACB-C715-40B5-B09D-C2243396363D",
+  "userInfo": {
+    "io.magicsketch.mirror": {
+      "highestQuality": 1
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "03294CCB-1966-4590-A2D3-82D3F44563BC",
+    "guides": [
+    ]
+  }
+}

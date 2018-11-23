@@ -1,0 +1,55 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "76BEE867-048C-49F4-826D-89F719306ACD",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "AC604B90-0BD1-41A6-A4DB-17F5711D62FE",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "3B59D7C3-B42F-483E-A32F-11198F4BA56C",
+    "height": 50,
+    "width": 208,
+    "x": 80,
+    "y": 7
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "DC4ADA0C-E4A6-48B9-9B0C-85A1D2A5FE14"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F1C669F5-BD91-4BA0-8D74-4A604BFAD762"
+    }
+  ],
+  "name": "Account Switcher Info",
+  "nameIsFixed": true,
+  "resizingConstraint": 43,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "27C651AD-A2B6-43B1-B874-DFE8F85EB4F3",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

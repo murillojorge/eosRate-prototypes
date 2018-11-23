@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "8663FB0A-6A88-4971-A9E5-66CD953E998B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F0540A45-DA29-437F-8081-FD40B68C0A20",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1325D8A2-5E99-4E02-92B7-A13FF78D1D4E",
+    "height": 48,
+    "width": 215,
+    "x": 0,
+    "y": 99
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "6A6D48A0-B842-43D6-BA5C-3B7F87B26901"
+    },
+    {
+      "class": "text",
+      "id": "2E3BD297-EF2A-4BA3-ABB4-34DB0699E32D"
+    }
+  ],
+  "name": "tooling",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "2060A78A-5510-44F3-A779-55855D0C2FD6",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

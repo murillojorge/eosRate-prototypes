@@ -1,0 +1,71 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "C266D3C9-1451-48CE-B742-E4DF3DDA0B04",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "01C6996A-4D60-4358-B023-DA233CF6D184",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C7CA715C-CD17-4BAA-89C1-57CEFAEB0A7E",
+    "height": 748,
+    "width": 344,
+    "x": 8,
+    "y": 8
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "6EB9BABF-EE43-4F16-92D7-FE207FBE454C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "BD4E189B-32AE-4367-BA77-854904B5F8CF"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "AF7250FA-D4A1-45FD-85DE-4CF077FE9353"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "40718CB6-E41D-48E6-B6BE-C683B17FD6ED"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "34ADB0FE-A53A-4481-A198-BC18D9C53412"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "EFAA173F-5843-46B8-9378-4C2F8BC90A34"
+    }
+  ],
+  "name": "Card Stream",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "154500DC-6ACE-41D5-B806-5D97FAA17038",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

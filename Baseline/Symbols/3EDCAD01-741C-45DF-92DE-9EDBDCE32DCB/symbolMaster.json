@@ -1,0 +1,114 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "352CF822-9EFA-4D76-ACA0-5AD1A683EDE4",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 5069,
+  "do_objectID": "3EDCAD01-741C-45DF-92DE-9EDBDCE32DCB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "FC0903FD-B9F9-4102-882F-AEF538FC0ABB",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A3093E19-5923-4A4F-BEC1-92BAE6D542B6",
+    "height": 272,
+    "width": 360,
+    "x": 58040,
+    "y": 0
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "gridSize": 4,
+    "isEnabled": true,
+    "thickGridTimes": 40
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "05C5A62E-F49E-4588-ABCF-6E74A37D2BF4",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "F140FF98-86D3-4F0A-9918-171424D47838"
+    },
+    {
+      "class": "group",
+      "id": "C412758D-F44B-404C-B3E9-D6E85A8A7176"
+    },
+    {
+      "class": "group",
+      "id": "9DB3AC92-3D60-47C6-8E34-BED53B8555CE"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "1F10D0B6-98FE-419D-9D7E-471B9C3BCD7F"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 48,
+    "drawHorizontal": true,
+    "drawHorizontalLines": false,
+    "drawVertical": false,
+    "gutterHeight": 4,
+    "gutterWidth": 2904,
+    "guttersOutside": false,
+    "horizontalOffset": -123,
+    "isEnabled": false,
+    "numberOfColumns": 2,
+    "rowHeightMultiplication": 1,
+    "totalWidth": 3000
+  },
+  "name": "Keyboard",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "852B1446-D706-4CDA-9B26-1855F5FF14C5",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "D35B57BC-764E-4D83-A565-E824D7077A4B",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "4073DFA7-8F4C-4203-92FB-67FFD9D4029E",
+    "guides": [
+    ]
+  }
+}

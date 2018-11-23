@@ -1,0 +1,151 @@
+{
+  "_class": "document",
+  "assets": {
+    "_class": "assetCollection",
+    "colors": [
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.2235294117647059,
+        "green": 0.1882352941176471,
+        "red": 0.0392156862745098
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.3764705882352941,
+        "green": 0.3490196078431372,
+        "red": 0.2313725490196079
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.7098039215686275,
+        "green": 0.6980392156862745,
+        "red": 0.6666666666666666
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.8235294117647058,
+        "green": 0.8156862745098039,
+        "red": 0.8
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.9411764705882353,
+        "green": 0.9372549019607843,
+        "red": 0.9333333333333333
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 1,
+        "green": 1,
+        "red": 1
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.6501364461677998,
+        "green": 0.9060374149659864,
+        "red": 0.2517843084598107
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.364705882352941,
+        "green": 0.3568627450980393,
+        "red": 1
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.984313725490196,
+        "green": 0.5450980392156862,
+        "red": 0.2352941176470588
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.9921568627450981,
+        "green": 0.8549019607843137,
+        "red": 0.7529411764705882
+      }
+    ],
+    "gradients": [
+      {
+        "_class": "gradient",
+        "elipseLength": 0,
+        "from": "{0.57491269628028197, 1}",
+        "gradientType": 0,
+        "stops": [
+          {
+            "_class": "gradientStop",
+            "color": {
+              "_class": "color",
+              "alpha": 1,
+              "blue": 0.984313725490196,
+              "green": 0.5450980392156864,
+              "red": 0.2352941176470587
+            },
+            "position": 0
+          },
+          {
+            "_class": "gradientStop",
+            "color": {
+              "_class": "color",
+              "alpha": 1,
+              "blue": 0.364705882352941,
+              "green": 0.3568627450980393,
+              "red": 1
+            },
+            "position": 1
+          }
+        ],
+        "to": "{0.56389286810809869, 0.052056458441144544}"
+      }
+    ],
+    "imageCollection": {
+      "_class": "imageCollection",
+      "images": {
+      }
+    },
+    "images": [
+    ]
+  },
+  "colorSpace": 0,
+  "do_objectID": "07A9DF66-E7F2-41FD-BBCB-25857C7DED84",
+  "foreignLayerStyles": [
+  ],
+  "foreignSymbols": [
+  ],
+  "foreignTextStyles": [
+  ],
+  "layerSymbols": {
+    "_class": "symbolContainer",
+    "objects": [
+    ]
+  },
+  "meta": {
+    "appVersion": "51.2",
+    "build": 57519,
+    "version": 105
+  },
+  "pages": [
+    "Symbols",
+    "SiteFlow"
+  ],
+  "userInfo": {
+    "com.invisionlabs.getty0": {
+      "ids": "[{\"id\":\"538056420\",\"layerId\":\"EC97BBBD-7900-4A7E-A178-D04D695A4A31\"},{\"id\":\"544358212\",\"layerId\":\"B90DC7E1-BEBD-4BAC-9488-3553508C7247\"},{\"id\":\"520646742\",\"layerId\":\"3929C661-FACA-45C4-9840-08C4852AD705\"},{\"id\":\"508179860\",\"layerId\":\"912C1716-290B-4EFC-B573-4BC44E4A8F11\"},{\"id\":\"589138044\",\"layerId\":\"65B5B779-D2A7-4E75-B26D-9A23AB50902B\"},{\"id\":\"519045978\",\"layerId\":\"0CA1F0B4-A18A-4713-A072-2533FC95AA68\"},{\"id\":\"515320884\",\"layerId\":\"352070AC-BB72-4F37-8E5D-6B338C677FD9\"},{\"id\":\"514581968\",\"layerId\":\"7FEBF602-88BA-465F-AAFA-F078ADD260BA\"},{\"id\":\"644244840\",\"layerId\":\"FACD55BC-30DD-480C-B994-824E52D37886\"},{\"id\":\"603281834\",\"layerId\":\"E105D7E7-E36D-4977-AF49-7BCAA630BB85\"},{\"id\":\"519665024\",\"layerId\":\"40E468B9-898C-40CC-8974-DB95EC333B2D\"},{\"id\":\"519665024\",\"layerId\":\"05FAB5DC-DAB3-4B25-8D3A-C2D6437412A4\"},{\"id\":\"617777232\",\"layerId\":\"1B44BE72-9836-4107-80F6-20EF80FCE5DB\"},{\"id\":\"539020790\",\"layerId\":\"76D4F1BF-0B12-4795-AC05-09CEB2D596B7\"}]"
+    },
+    "com.invisionlabs.getty1": {
+      "ids": "[{\"id\":\"522796439\",\"layerId\":\"965B0A40-6EF5-4325-BDB7-88040073D06F\"},{\"id\":\"591178499\",\"layerId\":\"965B0A40-6EF5-4325-BDB7-88040073D06F\"},{\"id\":\"517067831\",\"layerId\":\"FB9E486B-B6F7-4F4F-ABB0-EB09FD81FFE4\"},{\"id\":\"528896547\",\"layerId\":\"FB9E486B-B6F7-4F4F-ABB0-EB09FD81FFE4\"},{\"id\":\"479977873\",\"layerId\":\"6756967B-0E3D-45C2-982F-3220CAA2D1BE\"},{\"id\":\"540800719\",\"layerId\":\"E36F74C7-C220-438E-A073-4527069865C2\"},{\"id\":\"655851880\",\"layerId\":\"970E0280-ADE4-419B-B3D1-80D7484F9391\"},{\"id\":\"184829256\",\"layerId\":\"870D2BEF-BDB9-4870-A25E-559986A8FB0E\"},{\"id\":\"475639226\",\"layerId\":\"E9C3A1A1-9BCE-4FFD-AFB7-D512A38771BF\"},{\"id\":\"521813527\",\"layerId\":\"9DC4842A-A17E-4F17-98B9-6F2F4906E8D4\"},{\"id\":\"588495285\",\"layerId\":\"05FAB5DC-DAB3-4B25-8D3A-C2D6437412A4\"},{\"id\":\"555799141\",\"layerId\":\"E5FF5CCF-7ADD-4C95-801A-372E7042A802\"},{\"id\":\"555799249\",\"layerId\":\"2222F92B-A4E4-49AD-8EB8-54DCBD0AB1E8\"},{\"id\":\"487440372\",\"layerId\":\"503985E9-D128-4EC5-A8FC-82E71805EDBC\"},{\"id\":\"547016991\",\"layerId\":\"A0C3690B-8DEA-4478-AC6A-00A70CC3B9CC\"},{\"id\":\"547016993\",\"layerId\":\"A0C3690B-8DEA-4478-AC6A-00A70CC3B9CC\"},{\"id\":\"547016977\",\"layerId\":\"09448B74-0B75-43BB-9F9A-7F8467E93D55\"},{\"id\":\"547016969\",\"layerId\":\"40C51C52-8108-48E0-A8A4-64E508A68370\"},{\"id\":\"481292759\",\"layerId\":\"83247502-FDB3-4103-9D83-3681D07F555A\"},{\"id\":\"507880063\",\"layerId\":\"397926CF-3545-44C5-AD02-1DEE79823A26\"},{\"id\":\"536059863\",\"layerId\":\"55AAA2CE-123D-4713-88B6-E042336E3A0C\"},{\"id\":\"536907937\",\"layerId\":\"A896B611-30DB-470C-9854-1F445440C4C2\"},{\"id\":\"545163495\",\"layerId\":\"A896B611-30DB-470C-9854-1F445440C4C2\"},{\"id\":\"462113255\",\"layerId\":\"1DE6E261-3ACB-4D57-BC7D-D745936E8C5C\"},{\"id\":\"501576389\",\"layerId\":\"A896B611-30DB-470C-9854-1F445440C4C2\"},{\"id\":\"543137157\",\"layerId\":\"FFB25367-7B80-4BD6-A086-5DCA51D22C8F\"},{\"id\":\"501948477\",\"layerId\":\"E0AB27DB-A8C0-485B-8569-D4F18C502E8D\"},{\"id\":\"165013990\",\"layerId\":\"4DDD5F83-878A-4557-8A6A-617E4E4256B7\"},{\"id\":\"498573133\",\"layerId\":\"AB8FE37C-9727-47AD-93C8-15D184C1F45D\"},{\"id\":\"560039723\",\"layerId\":\"AB8FE37C-9727-47AD-93C8-15D184C1F45D\"},{\"id\":\"508065331\",\"layerId\":\"AB8FE37C-9727-47AD-93C8-15D184C1F45D\"},{\"id\":\"1976801\",\"layerId\":\"A2B3ECC1-47D8-4560-BA39-C56D35034109\"},{\"id\":\"78391533\",\"layerId\":\"A2B3ECC1-47D8-4560-BA39-C56D35034109\"},{\"id\":\"543197783\",\"layerId\":\"748AA033-55C4-4617-90FF-6D97F61412DB\"},{\"id\":\"543197783\",\"layerId\":\"2C7E597E-5B53-48C3-A3E6-9F1F63360A07\"},{\"id\":\"105652693\",\"layerId\":\"790B2240-09D2-4DE6-A731-8FD9C15B4500\"},{\"id\":\"481510385\",\"layerId\":\"790B2240-09D2-4DE6-A731-8FD9C15B4500\"},{\"id\":\"119704456\",\"layerId\":\"790B2240-09D2-4DE6-A731-8FD9C15B4500\"},{\"id\":\"501868881\",\"layerId\":\"790B2240-09D2-4DE6-A731-8FD9C15B4500\"}]"
+    },
+    "com.invisionlabs.sync": {
+      "metadata": "{\"hasSynced\":true,\"publicLink\":\"https:\\/\\/invis.io\\/8D9AF7S3W\",\"projectId\":11810473,\"hasProjectIdChanged\":false,\"resolution\":2,\"syncAll\":true}"
+    }
+  }
+}

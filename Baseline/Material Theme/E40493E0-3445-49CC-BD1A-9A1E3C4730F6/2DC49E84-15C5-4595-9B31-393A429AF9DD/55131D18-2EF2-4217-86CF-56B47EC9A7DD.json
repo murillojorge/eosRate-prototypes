@@ -1,0 +1,66 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "55131D18-2EF2-4217-86CF-56B47EC9A7DD",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "805672DA-F46F-4666-9900-3B78E5FC9EA2",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "2EE3A5D3-52BF-429C-80A6-FA8182FF7E07",
+    "height": 32,
+    "width": 94,
+    "x": 245,
+    "y": 1592
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Chips / Action / Filled / with Avatar / Enabled",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C0D3676F-CEA6-441E-A03E-0AF7B28026FB",
+      "overrideName": "EBC97D81-58C7-4227-9129-CB211A8D6AFB/3E9E0621-6866-4FB3-9BBA-A641BB4F4FA0_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/e0ad15beeaeb4b26855a5e70e37cadc7bbe97066.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F7C4A3A7-5864-4203-93BF-4DDFC8514E77",
+      "overrideName": "B857947C-3DB0-477B-9B15-83FEC8CFE778/4052E429-A11F-4AED-8E71-C4DCA4C387BE_stringValue",
+      "value": "Walls"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B8B7A55F-C3C3-46C6-A999-DDE0330067C6",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "DB54DC8E-32B9-4D9B-AE61-1829FFFA3077",
+  "verticalSpacing": 0
+}

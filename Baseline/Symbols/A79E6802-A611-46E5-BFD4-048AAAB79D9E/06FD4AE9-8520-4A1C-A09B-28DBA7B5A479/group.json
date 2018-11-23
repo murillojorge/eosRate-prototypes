@@ -1,0 +1,63 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "06FD4AE9-8520-4A1C-A09B-28DBA7B5A479",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "10486579-5F76-447F-B981-622866DDBDC0",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C39A98B7-A8C0-43D2-8945-06F6F42E6C62",
+    "height": 192,
+    "width": 192,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "93389A1B-D403-44DC-AB90-07A4BA595956"
+    },
+    {
+      "class": "group",
+      "id": "25A9574C-9377-47FA-AFEE-35B763DD1EA1"
+    },
+    {
+      "class": "group",
+      "id": "B2290EA6-5E59-4849-8219-B0ECA7F5BDFA"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "9B78C3EC-46F8-4033-B5EF-E5078BBA6698"
+    }
+  ],
+  "name": "Circle",
+  "nameIsFixed": true,
+  "resizingConstraint": 45,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "23EF62F0-62B7-4C64-BCD7-E65CF95E269A",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

@@ -1,0 +1,131 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9803921568627451,
+    "do_objectID": "EB76CE53-C971-4AB2-B2C2-EF6BB4C7DB36",
+    "green": 0.9803921568627451,
+    "red": 0.9803921568627451
+  },
+  "booleanOperation": 0,
+  "do_objectID": "B3577107-7283-4C58-9815-819C57E47F26",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "CEC95D62-434C-44D8-9E38-4A897D45213A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "88443DFF-85E7-43D1-9057-8B2D97AC659C",
+    "height": 1800,
+    "width": 1024,
+    "x": -4737,
+    "y": 10937
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "do_objectID": "1B91FCF8-A5A0-4D7A-96D5-4BDAFC870379",
+    "gridSize": 4,
+    "isEnabled": false,
+    "thickGridTimes": 40
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "13E6B861-F5E4-44D7-8BF4-AE9CDC112075",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "2DA029E0-7B54-4475-8AD8-8D7EAD81FFF8"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5E41B389-2394-4E49-8FB9-D2567FC6C4A8"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C67D9417-157A-4187-AE31-A6032FE653D2"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "BABEAF64-2B56-46FC-90A5-E8839CA82645"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 48,
+    "do_objectID": "5B93327B-6E1E-405D-A849-A2FC622E41D7",
+    "drawHorizontal": true,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 4,
+    "gutterWidth": 156,
+    "guttersOutside": false,
+    "horizontalOffset": 80,
+    "isEnabled": false,
+    "numberOfColumns": 5,
+    "rowHeightMultiplication": 1,
+    "totalWidth": 864
+  },
+  "name": "Tooltips",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "1299202B-4262-4797-A285-250E0BA4252F",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "2E1FFBDE-FC8B-4516-B842-A7DFF1297E79",
+    "guides": [
+    ]
+  }
+}

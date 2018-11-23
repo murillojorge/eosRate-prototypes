@@ -1,0 +1,110 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "8E44D528-0701-4DEA-9F8C-57270500FBB6",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 1081,
+  "do_objectID": "F2555B22-2E32-4E81-85FE-3444A731BE3C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "CCCDFE9A-019D-42A3-9BFE-AF462C3BBE69",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1D13091F-803C-4488-B1B9-3FC5DD266E1F",
+    "height": 64,
+    "width": 304,
+    "x": 66800,
+    "y": 0
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "gridSize": 4,
+    "isEnabled": true,
+    "thickGridTimes": 40
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "DBE61CFE-2FC1-4730-9C05-5EE200872C39",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "EF115BBB-8390-4D76-8CCB-D234A61EE4FF"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "57008343-491D-436B-A272-F6412CA47AEF"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3C81A848-FCDE-42E0-85EC-5D69D54F447C"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 48,
+    "drawHorizontal": true,
+    "drawHorizontalLines": false,
+    "drawVertical": false,
+    "gutterHeight": 4,
+    "gutterWidth": 2904,
+    "guttersOutside": false,
+    "horizontalOffset": -123,
+    "isEnabled": false,
+    "numberOfColumns": 2,
+    "rowHeightMultiplication": 1,
+    "totalWidth": 3000
+  },
+  "name": "Navigation Drawer / Elements / Brand / Collapsed",
+  "nameIsFixed": true,
+  "resizesContent": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "BE87E2FB-3371-4B79-8007-1623FAAEA34B",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "DBCC2981-8953-43D7-B18E-C89FAB9EDCB8",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "1D2B4448-9E24-4CD1-8177-E5337C347741",
+    "guides": [
+    ]
+  }
+}

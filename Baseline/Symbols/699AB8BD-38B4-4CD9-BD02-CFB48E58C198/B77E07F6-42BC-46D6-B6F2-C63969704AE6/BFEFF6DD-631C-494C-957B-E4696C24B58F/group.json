@@ -1,0 +1,59 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "BFEFF6DD-631C-494C-957B-E4696C24B58F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "EBEB1F13-6D33-41F6-8A94-8D87E45E3F35",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A7C9A0C2-ABF6-4EFC-A0B9-4803404CDF5F",
+    "height": 81,
+    "width": 80,
+    "x": 56,
+    "y": 56
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "A436DEB3-0D3C-41B6-91AA-6B95D1336F59"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "1A8570B9-AE8E-465E-B99C-4ADABB5DAC40"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "500AB073-9792-43DF-9C7F-7ADA154101CF"
+    }
+  ],
+  "name": "Foreground material",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8A59B943-F112-4649-8B7C-518A77ECC007",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

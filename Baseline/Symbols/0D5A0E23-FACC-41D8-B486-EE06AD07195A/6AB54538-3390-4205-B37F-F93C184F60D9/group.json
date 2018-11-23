@@ -1,0 +1,55 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "6AB54538-3390-4205-B37F-F93C184F60D9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7F59ADF9-36DD-4236-8DB9-CDD4FD0C89BF",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E122CF76-F8B4-4357-A938-664CA81CE389",
+    "height": 36,
+    "width": 200,
+    "x": 159.9999999999999,
+    "y": 51.99999999999984
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "822F90B7-0D7E-407B-88B6-A9C5B262DB7D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "FC6302B7-C971-4E45-989A-2521E8883AFD"
+    }
+  ],
+  "name": "Buttons",
+  "nameIsFixed": true,
+  "resizingConstraint": 36,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E5C9641E-EC62-4C62-85F1-061EE492A8E2",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

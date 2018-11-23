@@ -1,0 +1,60 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "380960D5-F0F2-43D1-A666-00D80A6B3F02",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 640,
+    "width": 768,
+    "x": 128,
+    "y": 1505
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": true,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "24CBBBC6-042D-4594-9BC5-708A0DF31311"
+    },
+    {
+      "class": "text",
+      "id": "0AE6E05A-F56C-4CE4-8FDE-A0EB8C2D730F"
+    },
+    {
+      "class": "text",
+      "id": "7E418761-723C-4884-92C7-79489CF33EF8"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F1C54B99-96A9-4850-84A1-8A4B31D65FB3"
+    }
+  ],
+  "name": "Syncing",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

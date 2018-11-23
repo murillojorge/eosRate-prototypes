@@ -1,0 +1,64 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "52B19264-E251-4BAE-9998-39893F7A77E0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 12,
+    "width": 60,
+    "x": 0,
+    "y": 31
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": true,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "A003DDD8-A7F6-4B05-BC79-9B0E2963D301"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "96F26751-C56F-48AB-8281-4A74A81E6414"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D48C59B9-2E94-493C-AA05-40A5FB0D99C1"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "AF16CC82-F41B-4AB3-BA55-22A500956DC0"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CE27B661-9465-4D74-A74E-C3004076A263"
+    }
+  ],
+  "name": "Rating Graph",
+  "nameIsFixed": true,
+  "resizingConstraint": 41,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

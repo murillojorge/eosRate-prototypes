@@ -1,0 +1,52 @@
+{
+  "_class": "bitmap",
+  "booleanOperation": 0,
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "EF3C48CD-6D78-4118-BDF3-D8ED17ACE752",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E14A4648-75F8-4E1B-93A1-6C0CC95610BC",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "F7873E73-EFC9-416D-826A-A650F0BBE212",
+    "height": 40,
+    "width": 40,
+    "x": 16,
+    "y": 16
+  },
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/ee2a2d02ef828c159ae9c663992082e9d5517ae6.png",
+    "_ref_class": "MSImageData"
+  },
+  "intendedDPI": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Purple Black",
+  "nameIsFixed": false,
+  "resizingConstraint": 9,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "AFB04712-57DD-4061-8002-6CC696DFDE60",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

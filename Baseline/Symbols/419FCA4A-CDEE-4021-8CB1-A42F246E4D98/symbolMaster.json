@@ -1,0 +1,112 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "96A6A5E0-2CF5-487C-9E88-A90F1809F591",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 16442,
+  "do_objectID": "419FCA4A-CDEE-4021-8CB1-A42F246E4D98",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "3DDB71B2-8693-499D-BD23-714A07000AA2",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "59E88BCD-2BA0-4FCD-9526-4332C23D1168",
+    "height": 208,
+    "width": 156,
+    "x": 51780,
+    "y": 744
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "gridSize": 4,
+    "isEnabled": true,
+    "thickGridTimes": 40
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "F980B727-E8E4-4F6A-A1CB-4C010E9DB6B4",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "F9AAF8B0-D6BF-4407-A39C-FEA863A0703D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A7A01622-5131-4483-B299-0336A4C0ECD4"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "23972241-780D-4DF6-A765-1603E7B270D8"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 48,
+    "drawHorizontal": true,
+    "drawHorizontalLines": false,
+    "drawVertical": false,
+    "gutterHeight": 4,
+    "gutterWidth": 2904,
+    "guttersOutside": false,
+    "horizontalOffset": -123,
+    "isEnabled": false,
+    "numberOfColumns": 2,
+    "rowHeightMultiplication": 1,
+    "totalWidth": 3000
+  },
+  "name": "Image Lists / Elements / Tile / Header / Overlay",
+  "nameIsFixed": true,
+  "resizesContent": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "FE85C273-C82E-4068-9C2D-EA19DB4C6BC5",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "05A6276E-4DA5-4189-AE8E-4B67AFCAEF36",
+  "userInfo": {
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "045C0FF4-4D5E-46BF-84DD-6D6455A30D18",
+    "guides": [
+    ]
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "5E65528C-B9D6-42EC-B633-7B66AD6A780E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 4.32,
+    "width": 6.438000000000002,
+    "x": 53.598,
+    "y": 54.752
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "98EABB02-7025-48CF-BFF4-8B44BB0056A4"
+    },
+    {
+      "class": "shapePath",
+      "id": "DFFE59D3-1FDE-4FAB-BC8E-87C2C5D8B55B"
+    }
+  ],
+  "name": "Tu",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "06303243-A31E-4E17-839C-4769C7687ED2"
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 4.32,
+            "enabled": 1,
+            "modelID": "constraint_f8f0f2b4-2b5d-4bb6-89d9-903fae59441b",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 6.438
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_e959dad5-2a01-48f2-bed8-8ade6aff2820",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  },
+  "windingRule": 1
+}

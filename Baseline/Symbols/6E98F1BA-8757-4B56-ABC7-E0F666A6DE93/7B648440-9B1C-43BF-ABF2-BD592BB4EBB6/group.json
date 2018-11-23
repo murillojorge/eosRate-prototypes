@@ -1,0 +1,55 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "7B648440-9B1C-43BF-ABF2-BD592BB4EBB6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "5DA5A975-2928-4B6F-8871-DAB34479639F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5EC51466-9220-4666-A0CE-D1F7FF280738",
+    "height": 83,
+    "width": 192,
+    "x": 136,
+    "y": 18
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "AB269AC6-DCB1-4800-95EE-191AD82E9692"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "815FA9D9-93C6-4201-81B1-C5080B7C08AE"
+    }
+  ],
+  "name": "BODY 2 COLOR & STYLE",
+  "nameIsFixed": true,
+  "resizingConstraint": 62,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "AAF32541-1503-4969-BDE3-65CD91F14131",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

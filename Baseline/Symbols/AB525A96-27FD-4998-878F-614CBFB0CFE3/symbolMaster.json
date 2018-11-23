@@ -1,0 +1,119 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "8F7A85A1-A697-42A3-BF0B-B333DB62D36C",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 12392,
+  "do_objectID": "AB525A96-27FD-4998-878F-614CBFB0CFE3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "498A8B60-7E18-4FC7-B065-E6442265349E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5CB60E0E-A6A6-4D7B-BBF3-916AC8E30A84",
+    "height": 48,
+    "width": 120,
+    "x": 82700,
+    "y": 88
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "gridSize": 4,
+    "isEnabled": true,
+    "thickGridTimes": 40
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "9E52B399-CBD6-4892-A102-39E58497571A",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "B354C1C7-CA1E-4F10-B887-22063CEA5BFB"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B5792128-BEBF-4A3F-85D5-FDEEEAF2605B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8BB4E52A-C819-40E7-A834-2033147442B4"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5F9C8F30-2C2E-40EC-A02F-A9572F620502"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 48,
+    "drawHorizontal": true,
+    "drawHorizontalLines": false,
+    "drawVertical": false,
+    "gutterHeight": 4,
+    "gutterWidth": 2904,
+    "guttersOutside": false,
+    "horizontalOffset": -123,
+    "isEnabled": false,
+    "numberOfColumns": 2,
+    "rowHeightMultiplication": 1,
+    "totalWidth": 3000
+  },
+  "name": "Tab / Elements / Text Tab / Active / Focused",
+  "nameIsFixed": true,
+  "resizesContent": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "01A84930-9367-4519-BE45-5B7BBEC8D3B1",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "66D5F75C-E06B-4153-BB1D-8A46DA858D10",
+  "userInfo": {
+    "io.magicsketch.mirror": {
+      "highestQuality": 1
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "BEB05C91-616E-41FE-83EB-A5FAA5A109E8",
+    "guides": [
+    ]
+  }
+}

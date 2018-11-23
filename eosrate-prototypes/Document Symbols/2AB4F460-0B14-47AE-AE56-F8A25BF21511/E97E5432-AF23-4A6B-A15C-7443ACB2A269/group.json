@@ -1,0 +1,85 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "E97E5432-AF23-4A6B-A15C-7443ACB2A269",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "FB1592C8-98C6-4966-9518-FE3C080F5519",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D319FBBE-2C3C-44CC-ABB3-71B630D1047A",
+    "height": 947,
+    "width": 244,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "30AFAC94-8A01-41FA-8DB8-0DF9F5FA79B3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "BA83781E-E988-40D7-A95D-22B65983F086"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5F39A8F2-B808-4472-8188-448723E7A72B"
+    },
+    {
+      "class": "text",
+      "id": "974CAE11-6461-42B2-B97F-2CB6B3E301C3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A5E92A8B-BE12-4ED3-B67E-CC3D9983C90D"
+    },
+    {
+      "class": "text",
+      "id": "483F8752-A0A9-4740-B259-B517EC5E2E17"
+    },
+    {
+      "class": "text",
+      "id": "DF9E0B70-3DEC-4AFD-AFAD-E4F0EBFD8933"
+    },
+    {
+      "class": "text",
+      "id": "A8C0B5A5-C06D-4E5B-8F19-2F2CF6B5814F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CFDDAF2A-7D3D-4E8C-95D5-15DA97CE6787"
+    }
+  ],
+  "name": "sidebar",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F428739B-771D-45B1-AB97-68DCA6FE8D65",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

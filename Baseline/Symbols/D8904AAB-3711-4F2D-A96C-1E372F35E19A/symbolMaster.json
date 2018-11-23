@@ -1,0 +1,110 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "F7EE67A5-BE8F-4496-AE6E-4E42DE1DCF48",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 4522,
+  "do_objectID": "D8904AAB-3711-4F2D-A96C-1E372F35E19A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "3DDD5331-BC5D-412E-A51D-BE11C7762083",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F9739CCA-3170-48B6-97D6-93556EB0886E",
+    "height": 62,
+    "width": 32,
+    "x": 78358,
+    "y": 190
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "gridSize": 4,
+    "isEnabled": true,
+    "thickGridTimes": 40
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "A8940C86-9EC6-409A-889F-97D0E663F9CC",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "42477B3C-4910-441F-88A9-D29A13F49204"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7D453F89-7D94-4497-8F86-08A70EDF04B1"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "DECA2637-CB1E-471C-9FB5-59EC817CD405"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 48,
+    "drawHorizontal": true,
+    "drawHorizontalLines": false,
+    "drawVertical": false,
+    "gutterHeight": 4,
+    "gutterWidth": 2904,
+    "guttersOutside": false,
+    "horizontalOffset": -123,
+    "isEnabled": false,
+    "numberOfColumns": 2,
+    "rowHeightMultiplication": 1,
+    "totalWidth": 3000
+  },
+  "name": "Slider / Elements / Value Indicator",
+  "nameIsFixed": false,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "662D78B3-939B-4D42-B51A-944F212238FA",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "98316595-6F22-4493-B23A-4A2664CF30C2",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "ABBBFAC9-6FFC-47B3-83EC-20FC09BE12FE",
+    "guides": [
+    ]
+  }
+}

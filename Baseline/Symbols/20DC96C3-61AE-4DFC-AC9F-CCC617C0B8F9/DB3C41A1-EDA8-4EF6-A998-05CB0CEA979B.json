@@ -1,0 +1,56 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "DB3C41A1-EDA8-4EF6-A998-05CB0CEA979B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "BC566A86-AD24-46BC-B28C-C092493EFDC1",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "83373801-07B6-4519-AE36-A97523EC8E5A",
+    "height": 16,
+    "width": 120,
+    "x": 0,
+    "y": 15
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "↳ Tab Text Color & Style",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5DF56092-E87C-4DE7-9CBD-49BF082EF2FD",
+      "overrideName": "36B73338-4458-434E-9628-5BD9D36CBFA1_stringValue",
+      "value": "Tab"
+    }
+  ],
+  "resizingConstraint": 42,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C20BEC7E-4DD1-499E-B5C3-3BACBAEA870B",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "707C2B99-D4EB-4837-B4ED-5CD3446682CD",
+  "verticalSpacing": 0
+}

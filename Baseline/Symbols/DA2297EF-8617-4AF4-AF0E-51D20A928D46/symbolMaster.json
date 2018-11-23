@@ -1,0 +1,138 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.5903220663265306,
+    "do_objectID": "5C5DF9E3-570C-40F9-8ADD-3EFDBFA1C088",
+    "green": 0.5903220663265306,
+    "red": 0.5903220663265306
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 16110,
+  "do_objectID": "DA2297EF-8617-4AF4-AF0E-51D20A928D46",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "77C33718-4F8F-4D51-AC3D-947AEF6D9760",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "AF234188-C4AA-4349-A345-09E72768507F",
+    "height": 40,
+    "width": 360,
+    "x": 2640,
+    "y": 0
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "gridSize": 4,
+    "isEnabled": true,
+    "thickGridTimes": 40
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "F1E10098-4BA1-4272-BA7E-15A1BD39CF47",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": false,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "2E717A45-4EB1-4DAD-B3AA-3CAF911F2D8B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "00A97FFE-2D77-46BC-8067-93E9FAD3E344"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B9A776DE-33BF-42E6-87FB-1428008AF321"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "720BEAED-0607-4A77-A495-F08C127A7CFC"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6E7C3299-9606-4842-B065-28D54538F45B"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 48,
+    "drawHorizontal": true,
+    "drawHorizontalLines": false,
+    "drawVertical": false,
+    "gutterHeight": 4,
+    "gutterWidth": 2904,
+    "guttersOutside": false,
+    "horizontalOffset": -123,
+    "isEnabled": false,
+    "numberOfColumns": 2,
+    "rowHeightMultiplication": 1,
+    "totalWidth": 3000
+  },
+  "name": "App Bar / Elements / Icons On Secondary / Positioned Left / 2 Up with Menu and Overflow",
+  "nameIsFixed": true,
+  "resizesContent": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9BCECF36-F170-4DAE-81A3-9BDB0FB27857",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "8CCB0A18-82DC-4CFA-9440-6FF61113F64B",
+  "userInfo": {
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "3E3112B4-5DE4-49AE-9764-339FC934EEF6",
+    "guides": [
+    ]
+  }
+}

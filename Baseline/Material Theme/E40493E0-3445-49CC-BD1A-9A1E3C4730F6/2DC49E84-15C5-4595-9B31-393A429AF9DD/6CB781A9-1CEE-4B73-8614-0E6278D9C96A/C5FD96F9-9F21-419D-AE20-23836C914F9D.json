@@ -1,0 +1,84 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "C5FD96F9-9F21-419D-AE20-23836C914F9D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E3261443-E760-47F4-A252-2262DF77B565",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "692AF1D6-D3CD-4F06-9020-F6DA72296261",
+    "height": 88,
+    "width": 360,
+    "x": 0,
+    "y": 207
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "List / Three Line / Image 16:9",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "8BDEA6FC-49B9-4460-ABFE-31596F140F79",
+      "overrideName": "6941B21C-2461-4016-9BA5-A3BD226E7FF0/4A2129E9-B3B2-49C3-8308-9061B81C51F2_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "CBC4A90A-D92C-47EA-93C4-31EADD87ECC6",
+      "overrideName": "6941B21C-2461-4016-9BA5-A3BD226E7FF0/60970987-D5DF-459E-B1EF-923FBAE2F1B6_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/91e998759ff091cf48390af445a532b4a4782d72.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "0BB77A81-603C-4385-8689-5506621D2097",
+      "overrideName": "FA73609C-8CCD-47F6-A72A-76858F4E8E5A/A8C7EBC3-17C9-4B61-9157-9F005D7E12B5_stringValue",
+      "value": "Grilled eggplant"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "46649E20-754C-4800-BBBD-443E55720D03",
+      "overrideName": "2A9BC824-5B5F-4E8F-B190-AB9435449582/6BA8FF8C-07E7-4852-86E1-C403C029467F_stringValue",
+      "value": "Grill Japanese eggplant \nwith basil and a little garlic "
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "AD5CF3E9-6FEF-4AD9-BDF1-367C4B20F4AD",
+      "overrideName": "A653423D-6C3D-4975-B7C3-449BE3F2857D_symbolID",
+      "value": ""
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7FFE6AE4-D2A0-4034-914F-A96459AB6250",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "AE1EE11D-8063-4736-847A-9377AED798B9",
+  "verticalSpacing": 0
+}

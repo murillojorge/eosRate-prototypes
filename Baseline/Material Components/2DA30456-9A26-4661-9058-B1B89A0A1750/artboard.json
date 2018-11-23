@@ -1,0 +1,147 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9803921568627451,
+    "do_objectID": "ABCDD8DE-CE8C-47A7-AE15-735B48345A45",
+    "green": 0.9803921568627451,
+    "red": 0.9803921568627451
+  },
+  "booleanOperation": 0,
+  "do_objectID": "2DA30456-9A26-4661-9058-B1B89A0A1750",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D97FE882-1ACC-405F-A2FC-2B54428E5EC4",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "CD8E24F9-BF6E-4B2E-AD25-DC1AD4C44FCA",
+    "height": 1800,
+    "width": 1024,
+    "x": -8409,
+    "y": 8937
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "do_objectID": "7C0F97A1-D84C-4FE6-8FF1-45877F6E943F",
+    "gridSize": 4,
+    "isEnabled": false,
+    "thickGridTimes": 40
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "4D0C2DB1-3020-48E4-B906-387C223A4A31",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "D2950B2F-C69D-4F4B-9F73-6183C06AA357"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1D01D819-507E-4B3B-BA45-44DA2A2472C6"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "856344BA-0598-4BCA-A27C-1998304E546A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5164CA26-E582-488C-A9D0-5D788B911F7A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "377F24B9-A95D-449B-8200-F0E4E39F0CB4"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4E1FECCB-573C-4D02-990C-326C8F9B67C2"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2C6600D8-29A4-4FB5-BC1F-FBB6C58FE142"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "35AE26B7-83F7-431A-B4C9-84033772DF9B"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 48,
+    "do_objectID": "69180972-3B32-490A-AE62-A2B9B7EA718C",
+    "drawHorizontal": true,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 4,
+    "gutterWidth": 156,
+    "guttersOutside": false,
+    "horizontalOffset": 80,
+    "isEnabled": false,
+    "numberOfColumns": 5,
+    "rowHeightMultiplication": 1,
+    "totalWidth": 864
+  },
+  "name": "Navigation Drawer, Page 1",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "3C4C0B14-54E7-4E3B-8DDE-E2E20436D4E8",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "74EE7913-626A-4466-9D03-88FB9A3619FA",
+    "guides": [
+    ]
+  }
+}

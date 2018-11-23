@@ -1,0 +1,62 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "C8B8072A-404E-45C8-BBEB-C761C65B0650",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C6CCF39D-3AFC-443E-970E-3A1AF2B99056",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5C0C7F86-96E2-4425-AB96-77A1A579335A",
+    "height": 24,
+    "width": 40,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Rail",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1AB1ADCA-B24D-4F4E-BA24-6AF7C4940DC8",
+      "overrideName": "FC4F5745-4127-484C-95E3-6FB3D7B34FFD_symbolID",
+      "value": "918D4F4E-75BA-4529-AA0C-74805D2BE784"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2AFF1634-627D-42E3-9EAE-8C4A6E0E3CA4",
+      "overrideName": "C0F4021D-E9AC-470B-AE11-DC9AB1C8BE89/054BA0D2-AE1F-4F4E-A0E4-34389E6483F4/677A8015-2ADB-4217-A8A4-D335305F7967_symbolID",
+      "value": "D6D572FC-142E-4891-A02E-A70F9911955E"
+    }
+  ],
+  "resizingConstraint": 44,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E8992697-42C7-4717-912B-4878CB903B67",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "F4061061-0505-4868-AADC-960DB0A576D6",
+  "verticalSpacing": 0
+}

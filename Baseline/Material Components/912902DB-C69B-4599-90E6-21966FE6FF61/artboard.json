@@ -1,0 +1,155 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9803921568627451,
+    "do_objectID": "F608FBD8-F905-4B07-85F5-4D02C94B6E90",
+    "green": 0.9803921568627451,
+    "red": 0.9803921568627451
+  },
+  "booleanOperation": 0,
+  "do_objectID": "912902DB-C69B-4599-90E6-21966FE6FF61",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "65CC7B94-CD42-4AF6-B907-2F09EC2EAF23",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E79C95BE-EC7A-492B-A026-0D66515330BC",
+    "height": 1800,
+    "width": 1024,
+    "x": -1065,
+    "y": 4937
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "do_objectID": "9A21E646-37C4-4ABB-A32C-995BA349C799",
+    "gridSize": 4,
+    "isEnabled": false,
+    "thickGridTimes": 40
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "DD6B3EC3-4B13-4412-9647-ED69DEAD0F12",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "C0BA8A05-A2E2-4036-B848-D2207ACADFCC"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E6E092D2-50CE-4865-BB3E-1A5B86010FD0"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1550EE9D-6D5D-4B17-A529-7995868B0B62"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C91870A6-9DE5-49DB-9761-47550C63F6C8"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8ED7B907-C8BE-4BD8-BA4F-5BE05C80DA00"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "EDA991F8-2D54-44B9-A089-2E61226AD848"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9BCD11F3-7BB4-4AC8-B11B-16AEE51A771F"
+    },
+    {
+      "class": "group",
+      "id": "AEEA7611-2161-43CF-B688-C32421A35B2E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6536186A-0629-4911-A21F-CEBD0F9F2CDD"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C7DB984B-AE46-449B-A503-F33A56809430"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 48,
+    "do_objectID": "1638D6BB-D90D-4863-81A4-E0A4FDDDA635",
+    "drawHorizontal": true,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 4,
+    "gutterWidth": 156,
+    "guttersOutside": false,
+    "horizontalOffset": 80,
+    "isEnabled": false,
+    "numberOfColumns": 5,
+    "rowHeightMultiplication": 1,
+    "totalWidth": 864
+  },
+  "name": "Cards, Page 4, Outlined",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "0C3CE0D2-6847-49B0-B8D5-E4F08BEE0B15",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "C77563C1-5CD9-4E90-8A1F-3A66BEF03600",
+    "guides": [
+    ]
+  }
+}

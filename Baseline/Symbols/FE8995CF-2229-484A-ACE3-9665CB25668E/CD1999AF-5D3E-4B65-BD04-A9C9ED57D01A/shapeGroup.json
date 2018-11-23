@@ -1,0 +1,88 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "CD1999AF-5D3E-4B65-BD04-A9C9ED57D01A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "483899C8-D59D-4269-AA9F-0B973774B4E6",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "BF1CDE00-17AA-46CA-93F1-FDFA93FB4056",
+    "height": 36,
+    "width": 96,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "79C66253-DA88-49E8-B57F-6C73B57BD945"
+    },
+    {
+      "class": "rectangle",
+      "id": "6CC985A5-A7AF-4E2B-B899-446A0C1B47B4"
+    },
+    {
+      "class": "rectangle",
+      "id": "4A954183-A339-47CF-A190-9F242457F6C6"
+    },
+    {
+      "class": "rectangle",
+      "id": "EEFF6B8E-7D91-4FC1-A7DA-F4CD1C856B08"
+    },
+    {
+      "class": "rectangle",
+      "id": "4F382B41-712B-4BF3-9CB7-4EAD31CF4E99"
+    }
+  ],
+  "name": "Surface",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.9803921568627451,
+          "green": 0.9803921568627451,
+          "red": 0.9803921568627451
+        },
+        "fillType": 0,
+        "isEnabled": false,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "sharedObjectID": "53A2FB4C-5462-404A-983B-BD0921D56DB0",
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "windingRule": 1
+}

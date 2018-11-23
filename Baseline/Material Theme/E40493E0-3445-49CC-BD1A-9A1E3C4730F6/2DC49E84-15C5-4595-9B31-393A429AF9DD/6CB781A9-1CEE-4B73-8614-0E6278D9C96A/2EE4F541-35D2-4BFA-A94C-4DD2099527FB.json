@@ -1,0 +1,84 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "2EE4F541-35D2-4BFA-A94C-4DD2099527FB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "BB8F21BC-A9F8-4416-9346-B893F14B6D0E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E784FE9D-B228-4BB9-9E57-3A0876D48C3C",
+    "height": 88,
+    "width": 360,
+    "x": 0,
+    "y": 119
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "List / Three Line / Image 16:9",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "8BDEA6FC-49B9-4460-ABFE-31596F140F79",
+      "overrideName": "6941B21C-2461-4016-9BA5-A3BD226E7FF0/4A2129E9-B3B2-49C3-8308-9061B81C51F2_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "CBC4A90A-D92C-47EA-93C4-31EADD87ECC6",
+      "overrideName": "6941B21C-2461-4016-9BA5-A3BD226E7FF0/60970987-D5DF-459E-B1EF-923FBAE2F1B6_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/91e998759ff091cf48390af445a532b4a4782d72.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "AB5C4018-70B6-4414-AEA3-6E4C04453311",
+      "overrideName": "FA73609C-8CCD-47F6-A72A-76858F4E8E5A/A8C7EBC3-17C9-4B61-9157-9F005D7E12B5_stringValue",
+      "value": "Crunchy croissants"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D85CE4EC-63F1-47FF-AB8D-DD4ADF8F0E4D",
+      "overrideName": "2A9BC824-5B5F-4E8F-B190-AB9435449582/6BA8FF8C-07E7-4852-86E1-C403C029467F_stringValue",
+      "value": "Buttery croissants that make your mouth water"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F2316FE2-0941-45EF-B017-1F18B6E2A2AB",
+      "overrideName": "A653423D-6C3D-4975-B7C3-449BE3F2857D_symbolID",
+      "value": ""
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "4CB66B63-AD4C-48D7-9F28-00E5659609DE",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "AE1EE11D-8063-4736-847A-9377AED798B9",
+  "verticalSpacing": 0
+}

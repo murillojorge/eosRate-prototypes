@@ -1,0 +1,60 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "094BFC63-5C82-45E8-A768-F350AE8DFEB1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 32,
+    "width": 368,
+    "x": 16,
+    "y": 408
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "79A3A8BC-4499-4635-AD12-4409255B7B48"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3FB12E10-4D6A-4C32-807D-3544DA37A55F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C507414D-3BF8-48B3-AB3C-E81993235D98"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1041A117-AAB4-4855-A086-84FCC61172C0"
+    }
+  ],
+  "name": "CHIPS",
+  "nameIsFixed": true,
+  "resizingConstraint": 59,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

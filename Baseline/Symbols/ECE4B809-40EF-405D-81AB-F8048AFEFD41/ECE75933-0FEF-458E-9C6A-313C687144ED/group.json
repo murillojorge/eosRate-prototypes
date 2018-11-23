@@ -1,0 +1,63 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "ECE75933-0FEF-458E-9C6A-313C687144ED",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1E862E4D-B895-439F-AB33-1830A725FC7B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "116269AE-D266-44FB-8772-CF75CB48ECB0",
+    "height": 32,
+    "width": 368,
+    "x": 16,
+    "y": 408
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "12468B29-21E4-406A-85BC-030C09BA2940"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B0C8D018-1F00-4238-BA1B-CC06CFEFC01C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E652A1DA-34AE-4210-9F6C-E2017C07E25B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "03598CBD-8840-4F52-9263-CCADBAF4B96F"
+    }
+  ],
+  "name": "CHIPS",
+  "nameIsFixed": true,
+  "resizingConstraint": 59,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "0BFAE5F7-5858-4D13-AA02-693E92FECAE5",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "AC967AF1-7118-4A51-AE27-E6A5F10AC4BB",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 3358,
+  "do_objectID": "321DB65D-3F9A-41DD-BCE4-0B52B51001E8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "AB1AD052-4A2F-4762-9485-7E523BAD3BFA",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "92034536-6A2F-4E6F-ABC0-7A954B4857AF",
+    "height": 24,
+    "width": 24,
+    "x": 37284,
+    "y": 192
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "gridSize": 4,
+    "isEnabled": true,
+    "thickGridTimes": 40
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "6635928C-2882-4902-BF5B-E612D8566632",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "0F4067EB-7824-43AB-BC83-9A1E74ACA879"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0462282A-4157-41D5-A991-B3B284883BDE"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "001A4911-3429-4AAB-B729-0CEACA452B45"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8B16B9EC-3E20-465F-B594-1A1624285760"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 48,
+    "drawHorizontal": true,
+    "drawHorizontalLines": false,
+    "drawVertical": false,
+    "gutterHeight": 4,
+    "gutterWidth": 2904,
+    "guttersOutside": false,
+    "horizontalOffset": -123,
+    "isEnabled": false,
+    "numberOfColumns": 2,
+    "rowHeightMultiplication": 1,
+    "totalWidth": 3000
+  },
+  "name": "Icon / Access Time / Sharp",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "34F5A792-0343-48BA-B767-CBEE2CFD4303",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "E5260801-C702-42AC-81B0-CF67EE57F021",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "290280A5-6369-4E79-AA90-EF2E7AC61FAF",
+    "guides": [
+    ]
+  }
+}

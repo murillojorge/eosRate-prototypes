@@ -1,0 +1,119 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "7413DF44-34C7-4BF4-9D91-C005B308FDA6",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 12986,
+  "do_objectID": "CCEA2AEF-EF8B-4A85-AABF-FD4EDFD761BF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "30129B47-9BB3-4FB7-B2A9-993AE9E26E68",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9B502E77-5A76-4F5B-93C0-C9C1A8D334F4",
+    "height": 48,
+    "width": 120,
+    "x": 81860,
+    "y": 440
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "gridSize": 4,
+    "isEnabled": true,
+    "thickGridTimes": 40
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "BCD1FD74-4F27-4FF7-89D6-A58E3A29F2F8",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "61DFA8BD-BC31-4CF2-A020-6CB5722EAAB3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9E4A0D9D-A0CF-4243-A8F3-8826C26238FA"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "84A78178-61D7-407D-A5A5-369524E8948F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "67F1A851-AB3A-4C99-9260-31A3ECD655EE"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 48,
+    "drawHorizontal": true,
+    "drawHorizontalLines": false,
+    "drawVertical": false,
+    "gutterHeight": 4,
+    "gutterWidth": 2904,
+    "guttersOutside": false,
+    "horizontalOffset": -123,
+    "isEnabled": false,
+    "numberOfColumns": 2,
+    "rowHeightMultiplication": 1,
+    "totalWidth": 3000
+  },
+  "name": "Tab / Elements / Icon Tab / Inactive / Focused",
+  "nameIsFixed": true,
+  "resizesContent": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "96C03373-1A91-4A4D-B703-DCCEC9D4BB0F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "287B4FAA-04BF-4F3A-93AD-6CCA37BCA0B0",
+  "userInfo": {
+    "io.magicsketch.mirror": {
+      "highestQuality": 1
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "992B6E4D-6056-4742-836B-CE08FF309420",
+    "guides": [
+    ]
+  }
+}

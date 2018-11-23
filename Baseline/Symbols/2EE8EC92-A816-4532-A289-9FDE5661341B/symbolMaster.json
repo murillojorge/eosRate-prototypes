@@ -1,0 +1,146 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.8980392156862745,
+    "do_objectID": "99746CA3-0FF6-4698-A767-E557FF0DA1DC",
+    "green": 0.8980392156862745,
+    "red": 0.8980392156862745
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 12986,
+  "do_objectID": "2EE8EC92-A816-4532-A289-9FDE5661341B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "DD6B2524-498A-4F51-AF10-71F7A8F459D7",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C1AB543F-505A-4BCC-B109-1CF4AC686960",
+    "height": 48,
+    "width": 48,
+    "x": 12924,
+    "y": 1408
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "gridSize": 4,
+    "isEnabled": true,
+    "thickGridTimes": 40
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "0BD9CFCA-2373-4122-B4FD-DCFB327064D8",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": false,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "1AF52ABF-31DC-4988-9AB0-3B77063C02CF"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5F3A02B0-410E-429C-B90D-8F3D6EF8786B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "AA4AAC5C-CA87-4EE3-925B-156120FE3F5C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "01D00B02-46DB-4448-8B2B-C914638BDF6D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E64AB159-3E31-4EC1-9291-5A06F0695919"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 48,
+    "drawHorizontal": true,
+    "drawHorizontalLines": false,
+    "drawVertical": false,
+    "gutterHeight": 4,
+    "gutterWidth": 2904,
+    "guttersOutside": false,
+    "horizontalOffset": -123,
+    "isEnabled": false,
+    "numberOfColumns": 2,
+    "rowHeightMultiplication": 1,
+    "totalWidth": 3000
+  },
+  "name": "Buttons / Toggle / Elements / Right / Hover",
+  "nameIsFixed": true,
+  "resizesContent": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "820AD918-C80B-429D-B488-1AFB9D45C507",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "666BAE90-83EF-4BFF-9114-FD99D31F54F6",
+  "userInfo": {
+    "com.google.ux.material.spec_tools": {
+      "cornerSizesDp": [
+        0,
+        24,
+        24,
+        0
+      ]
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "52BEAE48-5A11-4B0E-B25E-D840CF0DB549",
+    "guides": [
+    ]
+  }
+}

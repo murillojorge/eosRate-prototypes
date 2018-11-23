@@ -1,0 +1,110 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "DD4F52C8-DCB0-4510-AC6F-3F5C7B9239FC",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 1427,
+  "do_objectID": "CC9F5966-EE4C-452A-B211-FEEB7C2D8442",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6D59E09E-6901-4F8F-B24F-FD0B4676601F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "117A1175-CD4D-45F9-BDDF-777ED09F167D",
+    "height": 640,
+    "width": 360,
+    "x": 68596,
+    "y": 1360
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "gridSize": 4,
+    "isEnabled": true,
+    "thickGridTimes": 40
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "43B213DB-888C-447E-BADB-54CC6A5F5B92",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "29FF7491-F02F-4F76-9D3E-607EA9ED1115"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "78692C8C-F6EA-4065-9F88-AA6501B6089A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F907E280-D52C-46DE-8FE6-566C8C4784BC"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 48,
+    "drawHorizontal": true,
+    "drawHorizontalLines": false,
+    "drawVertical": false,
+    "gutterHeight": 4,
+    "gutterWidth": 2904,
+    "guttersOutside": false,
+    "horizontalOffset": -123,
+    "isEnabled": false,
+    "numberOfColumns": 2,
+    "rowHeightMultiplication": 1,
+    "totalWidth": 3000
+  },
+  "name": "Navigation Drawer / Elements / Surface / Temporary Side",
+  "nameIsFixed": true,
+  "resizesContent": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "14274DFC-38FD-4833-A49B-0FDEFBF84E1D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "164E3252-671D-4A33-B972-63067E8E38C5",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "C812CC49-5339-46CD-97AC-B047DAE4BCBF",
+    "guides": [
+    ]
+  }
+}

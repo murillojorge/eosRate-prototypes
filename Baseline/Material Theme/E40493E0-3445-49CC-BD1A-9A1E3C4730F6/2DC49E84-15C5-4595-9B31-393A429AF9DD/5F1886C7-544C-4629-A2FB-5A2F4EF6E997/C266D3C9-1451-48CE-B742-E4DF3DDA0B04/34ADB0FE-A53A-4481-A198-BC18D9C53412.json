@@ -1,0 +1,60 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "34ADB0FE-A53A-4481-A198-BC18D9C53412",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2593C388-AA1E-4DB0-9740-37185E8B7BE6",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D77A8693-5294-4825-A98B-4CFF8B664F6B",
+    "height": 244,
+    "width": 168,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Cards / List 2-up / Filled / Image Lead / Resting",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F2EA96E4-277F-4B38-84C4-AEE3A19D86D8",
+      "overrideName": "AF5E32F7-BBC3-4EA7-A7F9-3661797045EC/B60D64E0-30BE-49AE-9FED-DB276BA2FF28_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/805e1223a74451077f5ee4d16dfd714e3da99a82.png",
+        "_ref_class": "MSImageData"
+      }
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "ED4E99AE-C155-4927-ABC4-D1D1C0053DFF",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "D98C735C-4E5C-45BA-9D02-BECFACDC011F",
+  "verticalSpacing": 0
+}

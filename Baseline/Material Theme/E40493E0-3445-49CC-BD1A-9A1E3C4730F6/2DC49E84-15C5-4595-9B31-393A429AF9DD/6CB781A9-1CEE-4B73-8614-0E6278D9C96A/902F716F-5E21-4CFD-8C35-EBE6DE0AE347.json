@@ -1,0 +1,84 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "902F716F-5E21-4CFD-8C35-EBE6DE0AE347",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8E605D8E-C1FA-40B5-A651-E24B0D9F90F6",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "FF2CED9A-20AD-40E1-9E60-0A22FB8102A3",
+    "height": 88,
+    "width": 360,
+    "x": 0,
+    "y": 383
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "List / Three Line / Image 16:9",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "8BDEA6FC-49B9-4460-ABFE-31596F140F79",
+      "overrideName": "6941B21C-2461-4016-9BA5-A3BD226E7FF0/4A2129E9-B3B2-49C3-8308-9061B81C51F2_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "CBC4A90A-D92C-47EA-93C4-31EADD87ECC6",
+      "overrideName": "6941B21C-2461-4016-9BA5-A3BD226E7FF0/60970987-D5DF-459E-B1EF-923FBAE2F1B6_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/91e998759ff091cf48390af445a532b4a4782d72.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A57D8EDA-82C2-41FF-AE6D-F72D95125C7B",
+      "overrideName": "FA73609C-8CCD-47F6-A72A-76858F4E8E5A/A8C7EBC3-17C9-4B61-9157-9F005D7E12B5_stringValue",
+      "value": "Pomegranate juice"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "65962456-8B2B-4617-8394-733A44CF4A4B",
+      "overrideName": "2A9BC824-5B5F-4E8F-B190-AB9435449582/6BA8FF8C-07E7-4852-86E1-C403C029467F_stringValue",
+      "value": "Press three pomegranates to make this tangy juice "
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "DE433BB1-6F35-4C70-B465-EE1BA5B49E76",
+      "overrideName": "A653423D-6C3D-4975-B7C3-449BE3F2857D_symbolID",
+      "value": ""
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "0D9828DC-202B-45D7-920B-3C259D168957",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "AE1EE11D-8063-4736-847A-9377AED798B9",
+  "verticalSpacing": 0
+}

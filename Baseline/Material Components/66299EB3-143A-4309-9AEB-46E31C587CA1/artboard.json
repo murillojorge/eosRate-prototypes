@@ -1,0 +1,159 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9803921568627451,
+    "do_objectID": "5DC13D18-530C-4AEC-A896-C1B6C8647A59",
+    "green": 0.9803921568627451,
+    "red": 0.9803921568627451
+  },
+  "booleanOperation": 0,
+  "do_objectID": "66299EB3-143A-4309-9AEB-46E31C587CA1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "27EF5DBA-6208-4DF5-8195-21053B8F0B7C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "348D9270-AB6E-405D-9A68-A10F39453873",
+    "height": 1800,
+    "width": 1024,
+    "x": 159,
+    "y": 8937
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "do_objectID": "D126FEC1-F7ED-4334-AD3C-681CA896531E",
+    "gridSize": 4,
+    "isEnabled": false,
+    "thickGridTimes": 40
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "C0F62D3E-817C-4707-BA30-752041A1830C",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "10A28284-511B-4704-8010-3C089E535D8B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "710C2105-6939-461B-AF06-234379DE92D1"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "40739A67-4534-4C99-9D4D-3377BB2AF9FD"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F49FE1D5-9FB5-4B4E-A1FC-D74EBD35EA27"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "624EF475-3E6E-4537-A8FD-48503969A5A8"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8940FE72-3EF5-47A5-83D7-2E57EC509F1A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6718CE9E-566F-4AE8-9F8A-07DECFCBDB38"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "FE644C80-61F6-4363-B525-B6AAB67961CD"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "628751A3-8C67-41AE-9BE2-E827ADF9579E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B0509166-2482-4C9C-BDB0-E2277C638D47"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "141F766F-39C0-4A51-A8FA-FE7D263C1DC4"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 48,
+    "do_objectID": "A558145F-3955-439E-AD22-4B414F7BD9FD",
+    "drawHorizontal": true,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 4,
+    "gutterWidth": 156,
+    "guttersOutside": false,
+    "horizontalOffset": 80,
+    "isEnabled": false,
+    "numberOfColumns": 5,
+    "rowHeightMultiplication": 1,
+    "totalWidth": 864
+  },
+  "name": "Snackbar & Banner",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E40E718B-1E98-4CAB-9334-D3CB2E836C2B",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "8C114897-3DB8-4B3E-BECC-5AD24FB85371",
+    "guides": [
+    ]
+  }
+}

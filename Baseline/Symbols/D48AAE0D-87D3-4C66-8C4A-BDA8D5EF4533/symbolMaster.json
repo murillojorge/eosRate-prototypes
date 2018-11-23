@@ -1,0 +1,114 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "694A51EF-733C-4094-BBDE-84FC18C0AA43",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 3293,
+  "do_objectID": "D48AAE0D-87D3-4C66-8C4A-BDA8D5EF4533",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "49E4B1DC-8354-49B1-9A51-9C52F74B14E2",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5E58A85B-5A0A-4D3F-8634-D303754FEEF3",
+    "height": 24,
+    "width": 24,
+    "x": 46008,
+    "y": 256
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "gridSize": 4,
+    "isEnabled": true,
+    "thickGridTimes": 40
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "849F4C2A-F47C-44FA-B6C5-7E921D799DE1",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "group",
+      "id": "09FFF9E3-4343-45BD-BF4A-1529CCF549D8"
+    },
+    {
+      "class": "group",
+      "id": "9905DB2E-B884-48D5-B4AE-673A91E189AB"
+    },
+    {
+      "class": "group",
+      "id": "7E0E1FFE-7EC4-4450-BB43-A012AB36E923"
+    },
+    {
+      "class": "group",
+      "id": "16CABBFC-C023-472B-8F27-18EE7DAD6D97"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 48,
+    "drawHorizontal": true,
+    "drawHorizontalLines": false,
+    "drawVertical": false,
+    "gutterHeight": 4,
+    "gutterWidth": 2904,
+    "guttersOutside": false,
+    "horizontalOffset": -123,
+    "isEnabled": false,
+    "numberOfColumns": 2,
+    "rowHeightMultiplication": 1,
+    "totalWidth": 3000
+  },
+  "name": "Icon / Perm Identity / Two-toned",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "11855A01-1681-46B0-8180-961D1AEBA523",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "6820D584-C204-4C22-8C0F-28B914C0E78F",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "371607B6-0C67-4D5F-A8C1-1303F81EF7DA",
+    "guides": [
+    ]
+  }
+}
