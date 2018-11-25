@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "AvenirNext-Bold",
+              "name": "Roboto-Regular",
               "size": 14
             }
           },
@@ -50,12 +50,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 19,
-    "width": 82,
-    "x": 32,
+    "height": 16,
+    "width": 74,
+    "x": 36,
     "y": 8
   },
-  "glyphBounds": "{{0, 0}, {82, 19.12396240234375}}",
+  "glyphBounds": "{{1, 2}, {73, 12}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -67,7 +67,7 @@
   "name": "Button Label",
   "nameIsFixed": false,
   "originalObjectID": "11C5C769-54EF-44CE-A112-58319C2048BC",
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "sharedStyleID": "3B18D2E6-0408-4BE8-A421-3389FB69D6D4",
@@ -90,7 +90,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "AvenirNext-Bold",
+            "name": "Roboto-Regular",
             "size": 14
           }
         },

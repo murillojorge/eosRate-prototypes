@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "AvenirNext-Regular",
+              "name": "Roboto-Regular",
               "size": 14
             }
           },
@@ -48,12 +48,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 19,
-    "width": 76,
+    "height": 16,
+    "width": 73,
     "x": 23,
     "y": 0
   },
-  "glyphBounds": "{{0, 0}, {76, 19.12396240234375}}",
+  "glyphBounds": "{{1, 2}, {71, 12}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -65,7 +65,7 @@
   "name": "Radio Label",
   "nameIsFixed": true,
   "originalObjectID": "FAF786E9-7101-4247-A2A0-B6FE123D47BB",
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "sharedStyleID": "D6205E2D-54D4-4A5C-A7E4-E1E62615B61D",
@@ -88,7 +88,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "AvenirNext-Regular",
+            "name": "Roboto-Regular",
             "size": 14
           }
         },

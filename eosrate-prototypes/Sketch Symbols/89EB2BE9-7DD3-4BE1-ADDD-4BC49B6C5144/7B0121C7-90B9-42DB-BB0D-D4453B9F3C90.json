@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "AvenirNext-Regular",
+              "name": "Roboto-Regular",
               "size": 14
             }
           },
@@ -48,12 +48,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 19,
-    "width": 88,
+    "height": 16,
+    "width": 84,
     "x": 11,
     "y": 8
   },
-  "glyphBounds": "{{0, 0}, {88, 19.12396240234375}}",
+  "glyphBounds": "{{0, 2}, {83, 14}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -65,7 +65,7 @@
   "name": "Select Option",
   "nameIsFixed": false,
   "originalObjectID": "7B0121C7-90B9-42DB-BB0D-D4453B9F3C90",
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "sharedStyleID": "31ED1764-6ADD-4060-87F0-2401E770D48B",
@@ -88,7 +88,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "AvenirNext-Regular",
+            "name": "Roboto-Regular",
             "size": 14
           }
         },
