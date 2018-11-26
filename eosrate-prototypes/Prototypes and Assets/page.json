@@ -156,6 +156,21 @@
       "id": "273D7BCE-380D-4984-BCA0-010E188FAF0D"
     }
   ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 60,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 20,
+    "guttersOutside": true,
+    "horizontalOffset": 0,
+    "isEnabled": true,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 960
+  },
   "name": "Prototypes and Assets",
   "nameIsFixed": true,
   "resizingConstraint": 0,
