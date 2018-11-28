@@ -2,10 +2,9 @@
   "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "690D399E-6428-4611-B477-DE636F1278BE",
+  "do_objectID": "9BB2F9DD-7C0A-4D9D-9985-B8ACB53B73D5",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "CBC7B305-8F11-4A04-BFF3-D1CC3DE050CD",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,11 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "15E4EB42-9A23-4FC0-8CB7-46BCB3735187",
-    "height": 375,
-    "width": 1028,
-    "x": -4,
-    "y": 1546
+    "height": 936,
+    "width": 1026,
+    "x": -2,
+    "y": 613
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -33,22 +31,34 @@
   "layers": [
     {
       "class": "symbolInstance",
-      "id": "FADD17AA-98CA-4C5B-8A2D-93EAB6C26B45"
-    },
-    {
-      "class": "text",
-      "id": "E90EC76F-94D7-45C1-BFFE-5FF11DB4AED8"
+      "id": "A037F6A2-682B-4466-9598-6452B5C01020"
     },
     {
       "class": "group",
-      "id": "3CB3BE8A-1FCA-4753-A6A6-B7DE4923633D"
+      "id": "BEE3D2E2-FC36-4BF3-A063-CE7E48BC7FF1"
+    },
+    {
+      "class": "group",
+      "id": "5FCBCF77-ABFF-4A4E-BEB2-B80B4B57F5EB"
+    },
+    {
+      "class": "group",
+      "id": "21B072A0-2CD5-4F13-A7CE-CDAB3CF802AA"
+    },
+    {
+      "class": "group",
+      "id": "25B8C38E-DE58-496A-96CC-7CC680BCEEF8"
+    },
+    {
+      "class": "group",
+      "id": "30194C12-DE26-4F42-B1FC-CB3F7017F1E3"
     },
     {
       "class": "text",
-      "id": "3EE83F86-F9D2-4DED-83A0-3DB1EAE0776C"
+      "id": "CF5EF43C-11AE-45D5-A160-815C7820CF7C"
     }
   ],
-  "name": "video block",
+  "name": "categories block",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -56,7 +66,6 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "CC5AE6C4-3905-4463-9219-4616658A2214",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,

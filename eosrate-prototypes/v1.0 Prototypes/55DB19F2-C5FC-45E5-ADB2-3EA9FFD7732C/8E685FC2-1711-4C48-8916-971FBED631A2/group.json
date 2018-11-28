@@ -2,10 +2,9 @@
   "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "690D399E-6428-4611-B477-DE636F1278BE",
+  "do_objectID": "8E685FC2-1711-4C48-8916-971FBED631A2",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "CBC7B305-8F11-4A04-BFF3-D1CC3DE050CD",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -15,12 +14,11 @@
   },
   "frame": {
     "_class": "rect",
-    "constrainProportions": false,
-    "do_objectID": "15E4EB42-9A23-4FC0-8CB7-46BCB3735187",
-    "height": 375,
-    "width": 1028,
-    "x": -4,
-    "y": 1546
+    "constrainProportions": true,
+    "height": 49,
+    "width": 44.25806451612902,
+    "x": 37.43603904879092,
+    "y": 1024
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -29,34 +27,37 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "symbolInstance",
-      "id": "FADD17AA-98CA-4C5B-8A2D-93EAB6C26B45"
+      "class": "shapePath",
+      "id": "55313CA5-87DC-478D-AC31-0E000ADEB1A5"
     },
     {
-      "class": "text",
-      "id": "E90EC76F-94D7-45C1-BFFE-5FF11DB4AED8"
+      "class": "shapePath",
+      "id": "2876773F-EACF-4246-8361-A2CCDC2784BD"
     },
     {
-      "class": "group",
-      "id": "3CB3BE8A-1FCA-4753-A6A6-B7DE4923633D"
+      "class": "shapePath",
+      "id": "E97132BA-BB09-4C22-A8D3-18897031EB80"
     },
     {
-      "class": "text",
-      "id": "3EE83F86-F9D2-4DED-83A0-3DB1EAE0776C"
+      "class": "shapePath",
+      "id": "F089140F-D4A7-46FF-8976-0B120D46B922"
+    },
+    {
+      "class": "shapePath",
+      "id": "17BE3DDE-9F98-420C-8288-C26D1A458271"
     }
   ],
-  "name": "video block",
-  "nameIsFixed": true,
+  "name": "Group 6",
+  "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "CC5AE6C4-3905-4463-9219-4616658A2214",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,

@@ -2,10 +2,10 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "811E7F3A-44B3-4C8F-8A29-B55CBE886C53",
+  "do_objectID": "A037F6A2-682B-4466-9598-6452B5C01020",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "7CF9F137-9FD9-439D-A2E1-B8422F20A5E0",
+    "do_objectID": "A823AD70-F52D-4231-A342-DE8434FE5F9B",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,11 +16,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "D230E77B-A6B9-4F24-BDD6-50599ADC950B",
-    "height": 72,
-    "width": 1024,
+    "do_objectID": "E83E50DC-F923-4E81-92DF-EDE9E824E88F",
+    "height": 936,
+    "width": 1026,
     "x": 0,
-    "y": 1919
+    "y": 0
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -30,9 +30,15 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "footer",
+  "name": "✱ / Color / Surface / Light",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A202FFEF-A0A1-4BE1-9B20-B4A4BC7DFB92",
+      "overrideName": "DAFEF308-0432-47AD-BDDE-1E6F06305E97/677A8015-2ADB-4217-A8A4-D335305F7967_symbolID",
+      "value": "FD1D52AE-0118-471D-8303-14AA287834DA"
+    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -41,12 +47,12 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "7E5DE91A-6F2D-4433-9114-E01F0955C2B6",
+    "do_objectID": "5712AD12-EBAD-4D73-897C-E26BA37772CD",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "A4571327-6FB9-4961-A55D-4FCB5D99A905",
+  "symbolID": "F3768DD9-977E-49FA-A412-6E67E6E2EFC0",
   "verticalSpacing": 0
 }

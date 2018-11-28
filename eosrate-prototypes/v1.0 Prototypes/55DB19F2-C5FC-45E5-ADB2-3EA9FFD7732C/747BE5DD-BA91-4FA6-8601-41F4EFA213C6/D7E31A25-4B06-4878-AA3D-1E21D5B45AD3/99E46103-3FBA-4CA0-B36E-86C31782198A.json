@@ -30,20 +30,20 @@
             "minimumLineHeight": 28
           }
         },
-        "length": 256,
+        "length": 560,
         "location": 0
       }
     ],
-    "string": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque dictum enim a lacus efficitur efficitur. Integer placerat porta urna, vitae rhoncus mi scelerisque non. Aliquam sed pulvinar massa, nec dictum lectus. Praesent bibendum at elit eu fermentum. "
+    "string": "EOS Rate is a community-driven visual rating tool that allows EOS token holders to easily rate Block Producers in distinct categories onchain using their preferred EOS wallet to sign the transaction. Each EOS account can submit their rating for each Block Producer as many times as they like facilitating a \"liquid democracy\", however, the weighting is independent from the amount the EOS account holds. One account = one submission of equal weight. EOS Rate does not influence the account of the ratings, just present the facts in a visually appealing format."
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "E90EC76F-94D7-45C1-BFFE-5FF11DB4AED8",
+  "do_objectID": "99E46103-3FBA-4CA0-B36E-86C31782198A",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "B79DB61F-CF70-4904-9EED-FBD520D10227",
+    "do_objectID": "9AE95D40-8DBF-4899-BC38-663092B31E37",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -54,13 +54,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "BED38A03-8253-4B08-8BA1-1E88B7C83C92",
-    "height": 219,
-    "width": 390,
-    "x": 32,
-    "y": 113
+    "do_objectID": "960EAEB4-E62A-4D06-A6AD-2983CE8EC353",
+    "height": 347,
+    "width": 470,
+    "x": 0,
+    "y": 80
   },
-  "glyphBounds": "{{0, 6}, {389, 184}}",
+  "glyphBounds": "{{0, 6}, {470, 328}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -69,7 +69,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Lorem ipsum dolor si",
+  "name": "EOS Rate is a commun",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -78,13 +78,13 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "BFB07420-6AE9-4939-940D-9011A73F7BAD",
+    "do_objectID": "AFC3BA7E-6652-402E-9C22-72946D87D7D5",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "ACF75677-C73A-49E8-93F8-6081861780EB",
+      "do_objectID": "D319387C-EF95-4784-AD3F-499C034F4585",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",

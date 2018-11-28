@@ -8,7 +8,7 @@
         "attributes": {
           "MSAttributedStringColorAttribute": {
             "_class": "color",
-            "alpha": 0.6,
+            "alpha": 1,
             "blue": 1,
             "green": 1,
             "red": 1
@@ -17,33 +17,33 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "Roboto-Regular",
-              "size": 19
+              "size": 16
             }
           },
-          "kerning": 0.5277778,
+          "kerning": 0.1500000059604645,
           "ligature": 0,
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 3,
+            "alignment": 0,
             "allowsDefaultTighteningForTruncation": 0,
-            "maximumLineHeight": 28,
-            "minimumLineHeight": 28
+            "maximumLineHeight": 24,
+            "minimumLineHeight": 24
           }
         },
-        "length": 256,
+        "length": 25,
         "location": 0
       }
     ],
-    "string": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque dictum enim a lacus efficitur efficitur. Integer placerat porta urna, vitae rhoncus mi scelerisque non. Aliquam sed pulvinar massa, nec dictum lectus. Praesent bibendum at elit eu fermentum. "
+    "string": "EOS Rate - Quick Overview"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "E90EC76F-94D7-45C1-BFFE-5FF11DB4AED8",
+  "do_objectID": "35F3D8A0-BB4E-4284-A609-26B15ADB9538",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "B79DB61F-CF70-4904-9EED-FBD520D10227",
+    "do_objectID": "30F0CF2B-19EF-4FC1-87BC-815D02FE7E06",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -54,13 +54,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "BED38A03-8253-4B08-8BA1-1E88B7C83C92",
-    "height": 219,
-    "width": 390,
-    "x": 32,
-    "y": 113
+    "do_objectID": "5FCB19C3-4A60-4525-BB84-9EF1695263B5",
+    "height": 24,
+    "width": 201,
+    "x": 335,
+    "y": 16
   },
-  "glyphBounds": "{{0, 6}, {389, 184}}",
+  "glyphBounds": "{{1, 5}, {193, 15}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -69,26 +69,44 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Lorem ipsum dolor si",
+  "name": "EOS Rate - Quick Ove",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "DACD889A-F31D-4633-8AF5-66FDAF830065",
+  "sharedStyleID": "3FFEE27B-1EF2-4300-B27E-F046562F8EE4",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "BFB07420-6AE9-4939-940D-9011A73F7BAD",
+    "do_objectID": "2FC2F278-8859-44AC-8855-8687CAFB8DB0",
     "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.847,
+          "green": 0.847,
+          "red": 0.847
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "ACF75677-C73A-49E8-93F8-6081861780EB",
+      "do_objectID": "DE2E1A05-771C-48B5-9327-B84EF67DCE21",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
-          "alpha": 0.6,
+          "alpha": 1,
           "blue": 1,
           "green": 1,
           "red": 1
@@ -97,22 +115,22 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "Roboto-Regular",
-            "size": 19
+            "size": 16
           }
         },
-        "kerning": 0.5277778,
+        "kerning": 0.1500000059604645,
         "ligature": 0,
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 3,
+          "alignment": 0,
           "allowsDefaultTighteningForTruncation": 0,
-          "maximumLineHeight": 28,
-          "minimumLineHeight": 28
+          "maximumLineHeight": 24,
+          "minimumLineHeight": 24
         }
       },
       "verticalAlignment": 0
     },
     "windingRule": 1
   },
-  "textBehaviour": 2
+  "textBehaviour": 1
 }

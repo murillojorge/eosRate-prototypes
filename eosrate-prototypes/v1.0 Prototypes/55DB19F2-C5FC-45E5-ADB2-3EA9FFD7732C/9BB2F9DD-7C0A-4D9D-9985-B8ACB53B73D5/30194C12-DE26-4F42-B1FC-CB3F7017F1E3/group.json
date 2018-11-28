@@ -2,10 +2,10 @@
   "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "690D399E-6428-4611-B477-DE636F1278BE",
+  "do_objectID": "30194C12-DE26-4F42-B1FC-CB3F7017F1E3",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "CBC7B305-8F11-4A04-BFF3-D1CC3DE050CD",
+    "do_objectID": "B26055F7-7675-4557-A119-B01B2DC127C9",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,11 +16,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "15E4EB42-9A23-4FC0-8CB7-46BCB3735187",
-    "height": 375,
-    "width": 1028,
-    "x": -4,
-    "y": 1546
+    "do_objectID": "859B7E95-34B9-41BD-8AEA-B902CE8143FB",
+    "height": 139,
+    "width": 874,
+    "x": 128.4360390487909,
+    "y": 752.0000000000001
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -29,26 +29,18 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "symbolInstance",
-      "id": "FADD17AA-98CA-4C5B-8A2D-93EAB6C26B45"
+      "class": "text",
+      "id": "23669F33-820D-4E72-AA59-423A4703AA21"
     },
     {
       "class": "text",
-      "id": "E90EC76F-94D7-45C1-BFFE-5FF11DB4AED8"
-    },
-    {
-      "class": "group",
-      "id": "3CB3BE8A-1FCA-4753-A6A6-B7DE4923633D"
-    },
-    {
-      "class": "text",
-      "id": "3EE83F86-F9D2-4DED-83A0-3DB1EAE0776C"
+      "id": "78A81173-6181-4EEC-9520-0D449F613428"
     }
   ],
-  "name": "video block",
+  "name": "tooling",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -56,7 +48,7 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "CC5AE6C4-3905-4463-9219-4616658A2214",
+    "do_objectID": "266527A2-4A93-40CD-A45E-50A641FCC473",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
