@@ -1,0 +1,108 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "315DE224-30AB-43A9-B0EC-46E4C1A7EB46",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 2300,
+  "clippingMaskMode": 0,
+  "do_objectID": "A2624781-82A3-4A7C-A8D9-E86B2AD15867",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E8503287-9A19-4F79-B3F3-5BD047C2005D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8106DF41-674F-42DD-95A8-990764E7112B",
+    "height": 24,
+    "width": 24,
+    "x": 7032,
+    "y": -827
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "gridSize": 4,
+    "isEnabled": true,
+    "thickGridTimes": 40
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "A9001D92-2FBF-4FF0-B281-B37DEFFA45F6",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "CC6DF87A-427F-4345-AE1D-200F4D06C7AC"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0BA6C4FE-E502-4333-8228-065B00D7CD77"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 48,
+    "drawHorizontal": true,
+    "drawHorizontalLines": false,
+    "drawVertical": false,
+    "gutterHeight": 4,
+    "gutterWidth": 2904,
+    "guttersOutside": false,
+    "horizontalOffset": -123,
+    "isEnabled": false,
+    "numberOfColumns": 2,
+    "rowHeightMultiplication": 1,
+    "totalWidth": 3000
+  },
+  "name": "Icon / Fingerprint / Filled",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "DE62D27E-8200-45F3-8DA5-1DB7BC37D0CC",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "451C6EF2-F149-4383-B9D6-D016A0F5EAA1",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "648F74CA-BF19-4BD2-BBF3-3CDB285B58ED",
+    "guides": [
+    ]
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "610B340C-9641-47A3-85D3-73F199141832",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 441.1282051282059,
+    "width": 296.3967684021542,
+    "x": 91.80430879712738,
+    "y": -108.9743589743592
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "620468EC-7E3D-4272-A8C3-E6294D014A41"
+    },
+    {
+      "class": "shapePath",
+      "id": "89540D41-6D5B-453E-A1ED-278D0BB6DFF2"
+    },
+    {
+      "class": "shapePath",
+      "id": "651E0933-163A-4877-A910-66F012CE6D46"
+    },
+    {
+      "class": "shapePath",
+      "id": "992DC8CD-AFFA-4D00-88A7-FD37B63A31DA"
+    },
+    {
+      "class": "shapePath",
+      "id": "412331F6-CBCF-4A55-8840-38F2904B633F"
+    },
+    {
+      "class": "shapePath",
+      "id": "A622E883-59D0-407E-B9F9-B8F105ED4283"
+    },
+    {
+      "class": "shapePath",
+      "id": "20D7CD3E-9EAE-4071-A1C3-584B15481C97"
+    },
+    {
+      "class": "shapePath",
+      "id": "2F90F969-92A9-4353-857C-7520F58744C9"
+    },
+    {
+      "class": "shapePath",
+      "id": "1AF8E1A3-7EC4-4627-8027-54DE40CE8C30"
+    },
+    {
+      "class": "shapePath",
+      "id": "DE1E7D8E-644F-4D8C-9123-379044747AE6"
+    },
+    {
+      "class": "shapePath",
+      "id": "DE58BB1A-0ECB-43DD-A838-37920456CAF1"
+    }
+  ],
+  "name": "Fill 1",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 0.1077241443452381
+    },
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "windingRule": 1
+}

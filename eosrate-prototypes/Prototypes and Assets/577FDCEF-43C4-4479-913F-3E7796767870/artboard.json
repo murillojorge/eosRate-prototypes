@@ -33,8 +33,8 @@
     "constrainProportions": false,
     "height": 1024,
     "width": 1024,
-    "x": 6845,
-    "y": 3684
+    "x": 5154,
+    "y": 5266
   },
   "grid": {
     "_class": "simpleGrid",
@@ -43,7 +43,7 @@
     "thickGridTimes": 10
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -59,7 +59,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "rectangle",
