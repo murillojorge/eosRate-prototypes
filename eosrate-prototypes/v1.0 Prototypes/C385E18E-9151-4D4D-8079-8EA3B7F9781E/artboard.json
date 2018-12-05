@@ -43,7 +43,7 @@
     "thickGridTimes": 10
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -76,7 +76,7 @@
     "gutterWidth": 25,
     "guttersOutside": true,
     "horizontalOffset": 138,
-    "isEnabled": false,
+    "isEnabled": true,
     "numberOfColumns": 12,
     "rowHeightMultiplication": 5,
     "totalWidth": 1024
