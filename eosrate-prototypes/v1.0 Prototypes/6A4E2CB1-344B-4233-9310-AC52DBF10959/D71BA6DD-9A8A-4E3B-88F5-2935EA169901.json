@@ -2,10 +2,9 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "33A60198-7322-43D2-A7DF-A24FF216F7FE",
+  "do_objectID": "D71BA6DD-9A8A-4E3B-88F5-2935EA169901",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "9321C432-B321-4575-BBF1-83687574DA7C",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -15,12 +14,11 @@
   },
   "frame": {
     "_class": "rect",
-    "constrainProportions": false,
-    "do_objectID": "988F6290-01CE-4145-9806-9F548A992E4E",
-    "height": 1072,
-    "width": 1302,
-    "x": 60,
-    "y": 653
+    "constrainProportions": true,
+    "height": 16,
+    "width": 16,
+    "x": 408,
+    "y": 439
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -30,14 +28,14 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "✱ / Color / Surface / Dark Copy",
+  "name": "icon/action/help_24px",
   "nameIsFixed": false,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "A7383E1D-BD3C-49FD-A1D3-F785EB61C471",
-      "overrideName": "5EDA851F-AB34-437C-928E-A9D2802C2469_symbolID",
-      "value": "FD1D52AE-0118-471D-8303-14AA287834DA"
+      "do_objectID": "C1B35088-F908-4134-88A1-30B62E970D3A",
+      "overrideName": "4E608716-D903-40AB-B50F-0469B6E91DAF_symbolID",
+      "value": "10FDBDC1-C63E-4F42-B7BF-15EA91FF36F0"
     }
   ],
   "resizingConstraint": 63,
@@ -47,12 +45,11 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "2C147A6C-18BC-4B50-9A6F-16FD37A448A6",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "EF84EC56-5A77-45C8-BDC4-076197D51D6D",
+  "symbolID": "982E7AA7-B1FA-4302-A6A4-6BCEA55C7C05",
   "verticalSpacing": 0
 }

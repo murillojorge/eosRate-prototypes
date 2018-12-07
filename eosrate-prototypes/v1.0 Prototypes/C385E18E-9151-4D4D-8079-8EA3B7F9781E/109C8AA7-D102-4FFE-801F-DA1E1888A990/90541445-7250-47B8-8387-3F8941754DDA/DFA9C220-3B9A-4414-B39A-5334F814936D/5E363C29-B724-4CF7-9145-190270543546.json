@@ -31,11 +31,11 @@
             "paragraphSpacing": 20
           }
         },
-        "length": 369,
+        "length": 374,
         "location": 0
       }
     ],
-    "string": "EOS Rate is a community-driven visual rating tool that allows EOS token holders to easily rate Block Producers in distinct categories onchain using their EOS wallet to sign the transaction. \nEOS Rate strives to be a visually appealing tool that helps token holders make an informed vote for the best Block Producers and ultimately strengthen the EOS network as a whole."
+    "string": "EOS Rate is a community-driven visual rating tool that allows EOS token holders to easily rate Block Producers in distinct categories onchain using their EOS wallet to sign the transaction. \nThis open source dApp uses a radial graph to represent the most important qualitative aspects of a Block Producer. Go to the Block Producer page and help the community with your rate."
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -54,7 +54,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 310,
+    "height": 280,
     "width": 486,
     "x": 1,
     "y": 92

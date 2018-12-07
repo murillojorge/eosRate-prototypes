@@ -2,10 +2,9 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "33A60198-7322-43D2-A7DF-A24FF216F7FE",
+  "do_objectID": "0226AB73-A4AC-42B7-8B2B-D9D55E973D40",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "9321C432-B321-4575-BBF1-83687574DA7C",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,11 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "988F6290-01CE-4145-9806-9F548A992E4E",
-    "height": 1072,
-    "width": 1302,
-    "x": 60,
-    "y": 653
+    "height": 24,
+    "width": 74,
+    "x": 433,
+    "y": 416
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -30,15 +28,9 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "✱ / Color / Surface / Dark Copy",
+  "name": "Tooltip",
   "nameIsFixed": false,
   "overrideValues": [
-    {
-      "_class": "overrideValue",
-      "do_objectID": "A7383E1D-BD3C-49FD-A1D3-F785EB61C471",
-      "overrideName": "5EDA851F-AB34-437C-928E-A9D2802C2469_symbolID",
-      "value": "FD1D52AE-0118-471D-8303-14AA287834DA"
-    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -47,12 +39,11 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "2C147A6C-18BC-4B50-9A6F-16FD37A448A6",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "EF84EC56-5A77-45C8-BDC4-076197D51D6D",
+  "symbolID": "9D5DB6AF-437A-48F9-8901-4073B86CB22E",
   "verticalSpacing": 0
 }

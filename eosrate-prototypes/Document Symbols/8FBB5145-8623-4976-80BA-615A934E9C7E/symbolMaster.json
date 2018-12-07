@@ -4,17 +4,17 @@
     "_class": "color",
     "alpha": 1,
     "blue": 1,
-    "do_objectID": "6310D64E-538F-4D00-9605-AA736D248449",
+    "do_objectID": "3A03142B-F30F-4249-B0CD-AE22488F4091",
     "green": 1,
     "red": 1
   },
-  "booleanOperation": -1,
-  "changeIdentifier": 1564,
+  "booleanOperation": 0,
+  "changeIdentifier": 2464,
   "clippingMaskMode": 0,
-  "do_objectID": "655C8365-E5F0-4C0B-B0B5-4C522D359AED",
+  "do_objectID": "8FBB5145-8623-4976-80BA-615A934E9C7E",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "63498F92-0CB2-41EF-ABEF-08A867C04330",
+    "do_objectID": "7B02AE04-21B9-46F0-A7C7-EC4A31F39656",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -25,11 +25,18 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "849F0177-058B-4880-B36B-CAB009473A2B",
-    "height": 98,
-    "width": 1024,
-    "x": 5904,
-    "y": -551
+    "do_objectID": "6DBF6572-8504-4915-85FA-2E0D2C3BC517",
+    "height": 101,
+    "width": 101,
+    "x": 7424,
+    "y": -840
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "do_objectID": "33DC65AD-ADCB-4943-8FF8-0949C25588D5",
+    "gridSize": 4,
+    "isEnabled": true,
+    "thickGridTimes": 40
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -37,7 +44,7 @@
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "do_objectID": "FDBDB187-40EF-470C-BB77-AFA0EDE2FA31",
+    "do_objectID": "16EB590E-1B83-448D-AD0E-3BC5E21F43DA",
     "guides": [
     ]
   },
@@ -53,26 +60,27 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "group",
-      "id": "E6732626-7A52-458B-AC8E-D3BA83C6AC4B"
+      "class": "rectangle",
+      "id": "818AE7BF-3FA4-43DA-B78A-5AF512B030CD"
     }
   ],
   "layout": {
     "_class": "layoutGrid",
-    "columnWidth": 60,
-    "drawHorizontal": false,
+    "columnWidth": 48,
+    "do_objectID": "E3E1C0D5-6E94-4632-BBF1-FEB3780635D4",
+    "drawHorizontal": true,
     "drawHorizontalLines": false,
-    "drawVertical": true,
-    "gutterHeight": 12,
-    "gutterWidth": 25.33333333333333,
-    "guttersOutside": true,
-    "horizontalOffset": 0,
-    "isEnabled": false,
-    "numberOfColumns": 12,
-    "rowHeightMultiplication": 5,
-    "totalWidth": 1024
+    "drawVertical": false,
+    "gutterHeight": 4,
+    "gutterWidth": 2904,
+    "guttersOutside": false,
+    "horizontalOffset": -123,
+    "isEnabled": true,
+    "numberOfColumns": 2,
+    "rowHeightMultiplication": 1,
+    "totalWidth": 3000
   },
-  "name": "header copy",
+  "name": "✱ / Color / Icons / Black / Inactive",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
@@ -81,20 +89,18 @@
   "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
-    "do_objectID": "EF8791A2-841F-4442-AFCA-9192F82E1AD1",
+    "do_objectID": "B8E92CD4-1842-4D11-84DC-7546C1DD0F6D",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "AA3E3905-224F-4E0E-86D6-200E7E8A179B",
+  "symbolID": "9A74E6A7-199D-4EDF-AE39-B50988D3315A",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "do_objectID": "3E2D6A0A-873D-4B77-ACCC-21F330A07ACD",
+    "do_objectID": "F845A73E-BBE8-4F55-A2F7-328E9B31CE9E",
     "guides": [
-      50,
-      49
     ]
   }
 }

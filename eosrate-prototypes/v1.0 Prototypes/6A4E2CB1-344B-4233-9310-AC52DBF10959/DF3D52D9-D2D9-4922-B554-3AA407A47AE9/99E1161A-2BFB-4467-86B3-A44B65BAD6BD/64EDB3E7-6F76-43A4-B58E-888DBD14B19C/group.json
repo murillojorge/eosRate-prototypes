@@ -1,11 +1,11 @@
 {
-  "_class": "bitmap",
+  "_class": "group",
   "booleanOperation": -1,
-  "clippingMask": "{{0, 0}, {1, 1}}",
   "clippingMaskMode": 0,
-  "do_objectID": "10D77F6A-A2E1-4B98-86DB-36C921D8CC51",
+  "do_objectID": "64EDB3E7-6F76-43A4-B58E-888DBD14B19C",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "7796D169-77F0-4BF0-BE4C-5BD95C038467",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -13,29 +13,34 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
-  "fillReplacesImage": false,
   "frame": {
     "_class": "rect",
-    "constrainProportions": true,
-    "height": 430.0471428571428,
-    "width": 460.9999999999999,
-    "x": 533,
-    "y": 66.00000000000003
+    "constrainProportions": false,
+    "do_objectID": "1167561C-34A2-433B-A34B-E4D928ECAE1F",
+    "height": 58,
+    "width": 215,
+    "x": 0,
+    "y": 0
   },
+  "hasClickThrough": false,
   "hasClippingMask": false,
-  "image": {
-    "_class": "MSJSONFileReference",
-    "_ref": "images/b61def7a47e30fd3602e78b50930e75a40b65382.png",
-    "_ref_class": "MSImageData"
-  },
-  "intendedDPI": 72,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "eosrate-radar-02",
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "A04C3AC5-ACC5-4B20-AA14-EFC45649B9B4"
+    },
+    {
+      "class": "text",
+      "id": "46698E90-EB02-4A4A-86E2-B6B1DA4953E8"
+    }
+  ],
+  "name": "Group Copy 3",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -43,6 +48,7 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "538F9CE7-D0DE-49B8-8233-EEEF0D5DD90D",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,

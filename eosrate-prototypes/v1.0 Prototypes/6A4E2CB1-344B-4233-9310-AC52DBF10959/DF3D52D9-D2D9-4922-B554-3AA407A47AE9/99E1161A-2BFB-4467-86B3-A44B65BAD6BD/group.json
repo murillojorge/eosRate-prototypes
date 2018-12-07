@@ -1,9 +1,8 @@
 {
-  "_class": "bitmap",
+  "_class": "group",
   "booleanOperation": -1,
-  "clippingMask": "{{0, 0}, {1, 1}}",
   "clippingMaskMode": 0,
-  "do_objectID": "10D77F6A-A2E1-4B98-86DB-36C921D8CC51",
+  "do_objectID": "99E1161A-2BFB-4467-86B3-A44B65BAD6BD",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -13,29 +12,33 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
-  "fillReplacesImage": false,
   "frame": {
     "_class": "rect",
-    "constrainProportions": true,
-    "height": 430.0471428571428,
-    "width": 460.9999999999999,
-    "x": 533,
-    "y": 66.00000000000003
+    "constrainProportions": false,
+    "height": 58,
+    "width": 260,
+    "x": 0,
+    "y": 205
   },
+  "hasClickThrough": false,
   "hasClippingMask": false,
-  "image": {
-    "_class": "MSJSONFileReference",
-    "_ref": "images/b61def7a47e30fd3602e78b50930e75a40b65382.png",
-    "_ref_class": "MSImageData"
-  },
-  "intendedDPI": 72,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "eosrate-radar-02",
+  "layers": [
+    {
+      "class": "group",
+      "id": "64EDB3E7-6F76-43A4-B58E-888DBD14B19C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6AFFBEDC-8E8E-490C-8F7D-41B0FB740932"
+    }
+  ],
+  "name": "Group 3",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
