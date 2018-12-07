@@ -56296,6 +56296,53 @@
       "remoteStyleID": "04A7E3C6-6807-4EA2-97F0-2781205960BD",
       "sourceLibraryName": "Baseline",
       "symbolPrivate": false
+    },
+    {
+      "_class": "MSImmutableForeignTextStyle",
+      "libraryID": "EA9A3456-D205-45BC-B018-87FAFB3282A4",
+      "localSharedStyle": {
+        "_class": "sharedStyle",
+        "do_objectID": "CA591ACA-6684-4C22-88D3-FF80BD97FF7E",
+        "name": "Body 2 / White / Medium Emphasis / Left",
+        "value": {
+          "_class": "style",
+          "endMarkerType": 0,
+          "miterLimit": 10,
+          "startMarkerType": 0,
+          "textStyle": {
+            "_class": "textStyle",
+            "encodedAttributes": {
+              "MSAttributedStringColorAttribute": {
+                "_class": "color",
+                "alpha": 0.6,
+                "blue": 1,
+                "green": 1,
+                "red": 1
+              },
+              "MSAttributedStringFontAttribute": {
+                "_class": "fontDescriptor",
+                "attributes": {
+                  "name": "Roboto-Regular",
+                  "size": 14
+                }
+              },
+              "kerning": 0.25,
+              "ligature": 0,
+              "paragraphStyle": {
+                "_class": "paragraphStyle",
+                "allowsDefaultTighteningForTruncation": 0,
+                "maximumLineHeight": 20,
+                "minimumLineHeight": 20
+              }
+            },
+            "verticalAlignment": 0
+          },
+          "windingRule": 1
+        }
+      },
+      "remoteStyleID": "39A99097-3179-4826-B5D5-00DB61852AA9",
+      "sourceLibraryName": "Baseline",
+      "symbolPrivate": false
     }
   ],
   "layerSymbols": {
@@ -56304,8 +56351,8 @@
     ]
   },
   "meta": {
-    "appVersion": "52.3",
-    "build": 67297,
+    "appVersion": "52.5",
+    "build": 67469,
     "version": 112
   },
   "pages": [

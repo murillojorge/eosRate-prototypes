@@ -17,24 +17,25 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "Roboto-Regular",
-              "size": 25
+              "size": 21
             }
           },
-          "kerning": 0.6944445,
+          "kerning": 0.3749999,
           "ligature": 0,
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 3,
             "allowsDefaultTighteningForTruncation": 0,
-            "maximumLineHeight": 30,
-            "minimumLineHeight": 30
+            "maximumLineHeight": 28,
+            "minimumLineHeight": 28,
+            "paragraphSpacing": 20
           }
         },
-        "length": 326,
+        "length": 369,
         "location": 0
       }
     ],
-    "string": "EOS Rate is a community-driven visual rating tool that allows EOS token holders to easily rate Block Producers in distinct categories onchain using their preferred EOS wallet to sign the transaction. Each EOS account can submit their rating for each Block Producer as many times as they like facilitating a \"liquid democracy”."
+    "string": "EOS Rate is a community-driven visual rating tool that allows EOS token holders to easily rate Block Producers in distinct categories onchain using their EOS wallet to sign the transaction. \nEOS Rate strives to be a visually appealing tool that helps token holders make an informed vote for the best Block Producers and ultimately strengthen the EOS network as a whole."
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -55,10 +56,10 @@
     "constrainProportions": false,
     "height": 310,
     "width": 486,
-    "x": 0,
-    "y": 103
+    "x": 1,
+    "y": 92
   },
-  "glyphBounds": "{{0, 5}, {486, 266}}",
+  "glyphBounds": "{{0, 6}, {486, 237}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -72,10 +73,11 @@
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "DACD889A-F31D-4633-8AF5-66FDAF830065",
+  "sharedStyleID": "CA591ACA-6684-4C22-88D3-FF80BD97FF7E",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "0CF94F1A-365B-41A4-8437-32297A403093",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
@@ -93,17 +95,18 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "Roboto-Regular",
-            "size": 25
+            "size": 21
           }
         },
-        "kerning": 0.6944445,
+        "kerning": 0.3749999,
         "ligature": 0,
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 3,
           "allowsDefaultTighteningForTruncation": 0,
-          "maximumLineHeight": 30,
-          "minimumLineHeight": 30
+          "maximumLineHeight": 28,
+          "minimumLineHeight": 28,
+          "paragraphSpacing": 20
         }
       },
       "verticalAlignment": 0
