@@ -17,10 +17,10 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "15E4EB42-9A23-4FC0-8CB7-46BCB3735187",
-    "height": 368,
-    "width": 1029,
-    "x": -1,
-    "y": 545
+    "height": 375,
+    "width": 1028,
+    "x": -4,
+    "y": 1546
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -33,27 +33,19 @@
   "layers": [
     {
       "class": "symbolInstance",
-      "id": "7A03D9C2-3B70-41A0-820F-E07224AB1EAE"
-    },
-    {
-      "class": "text",
-      "id": "BD2589FF-0DEC-42DE-BE2C-46B0D45E5B0D"
+      "id": "FADD17AA-98CA-4C5B-8A2D-93EAB6C26B45"
     },
     {
       "class": "text",
       "id": "E90EC76F-94D7-45C1-BFFE-5FF11DB4AED8"
     },
     {
-      "class": "rectangle",
-      "id": "ADD7EBC8-3647-4A1A-8F30-D536C0535326"
-    },
-    {
-      "class": "bitmap",
-      "id": "CCFB70A3-4073-449B-ACEE-D3F0EBB658B0"
+      "class": "group",
+      "id": "3CB3BE8A-1FCA-4753-A6A6-B7DE4923633D"
     },
     {
       "class": "text",
-      "id": "35F3D8A0-BB4E-4284-A609-26B15ADB9538"
+      "id": "3EE83F86-F9D2-4DED-83A0-3DB1EAE0776C"
     }
   ],
   "name": "video block",

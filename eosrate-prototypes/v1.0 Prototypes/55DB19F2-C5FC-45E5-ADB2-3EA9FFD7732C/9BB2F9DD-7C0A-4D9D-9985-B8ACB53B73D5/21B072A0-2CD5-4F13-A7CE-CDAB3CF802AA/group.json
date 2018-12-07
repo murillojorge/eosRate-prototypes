@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "21B072A0-2CD5-4F13-A7CE-CDAB3CF802AA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A08E8071-8199-4CFB-B7C9-AA9BFD347EB4",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8A54EAAF-55F3-4724-8906-DAE5B8588344",
+    "height": 139,
+    "width": 874,
+    "x": 128.4360390487909,
+    "y": 414.0000000000001
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "text",
+      "id": "DA0CD793-3ABB-49AB-A636-FBB28FB0CE80"
+    },
+    {
+      "class": "text",
+      "id": "12462CE2-D5E8-4963-8809-414246C0166E"
+    }
+  ],
+  "name": "Testnets",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "DF238FCD-FE19-4934-B925-24C75CC902A9",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

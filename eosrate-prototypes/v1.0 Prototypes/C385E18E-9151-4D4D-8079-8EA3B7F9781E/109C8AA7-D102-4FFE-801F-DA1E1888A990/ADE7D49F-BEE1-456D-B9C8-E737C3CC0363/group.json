@@ -1,0 +1,62 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "ADE7D49F-BEE1-456D-B9C8-E737C3CC0363",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 375,
+    "width": 1028,
+    "x": 194,
+    "y": 1747
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "DBCD9556-D01B-4B76-A657-098693613FCF"
+    },
+    {
+      "class": "text",
+      "id": "705D6473-37BB-44D0-91BD-D336DA3596E5"
+    },
+    {
+      "class": "group",
+      "id": "C158A8AB-C3F0-4FBF-96F7-695EC32264AD"
+    },
+    {
+      "class": "text",
+      "id": "6998F25D-CEFB-4475-8E35-22D9410F2A8A"
+    }
+  ],
+  "name": "video block",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

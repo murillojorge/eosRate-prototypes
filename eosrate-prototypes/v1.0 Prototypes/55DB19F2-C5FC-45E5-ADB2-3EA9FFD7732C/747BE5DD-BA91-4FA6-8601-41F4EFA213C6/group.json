@@ -17,10 +17,10 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "FE667925-9A30-41C8-92AC-D924723F5FC3",
-    "height": 393,
-    "width": 960,
-    "x": 40,
-    "y": 123
+    "height": 519,
+    "width": 1028,
+    "x": 0,
+    "y": 95
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -32,20 +32,16 @@
   "layerListExpandedType": 0,
   "layers": [
     {
+      "class": "symbolInstance",
+      "id": "416060AE-4F34-4D01-A0BD-AEC3DB54D7C6"
+    },
+    {
       "class": "bitmap",
       "id": "A7BB9C23-1EA2-400E-BD1D-03A35B606950"
     },
     {
-      "class": "symbolInstance",
-      "id": "3540C46D-08EB-43F4-A4D3-213359B5E907"
-    },
-    {
-      "class": "text",
-      "id": "312E933D-7046-4CEF-B538-A3586B9708A4"
-    },
-    {
-      "class": "text",
-      "id": "99E46103-3FBA-4CA0-B36E-86C31782198A"
+      "class": "group",
+      "id": "D7E31A25-4B06-4878-AA3D-1E21D5B45AD3"
     }
   ],
   "name": "main block",
