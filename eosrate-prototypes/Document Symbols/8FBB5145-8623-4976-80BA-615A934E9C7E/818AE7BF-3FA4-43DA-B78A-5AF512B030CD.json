@@ -2,10 +2,11 @@
   "_class": "rectangle",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "1575BBE7-4A0A-4D47-8929-38A80991D44C",
+  "do_objectID": "818AE7BF-3FA4-43DA-B78A-5AF512B030CD",
   "edited": false,
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "33882A1D-12D0-432B-ADD4-E49F495932B2",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,9 +17,9 @@
   "fixedRadius": 0,
   "frame": {
     "_class": "rect",
-    "constrainProportions": false,
-    "height": 45,
-    "width": 247,
+    "constrainProportions": true,
+    "height": 101,
+    "width": 101,
     "x": 0,
     "y": 0
   },
@@ -32,7 +33,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "name": "Rectangle",
-  "nameIsFixed": false,
+  "nameIsFixed": true,
   "pointRadiusBehaviour": 1,
   "points": [
     {
@@ -87,27 +88,28 @@
         "_class": "border",
         "color": {
           "_class": "color",
-          "alpha": 1,
-          "blue": 1,
-          "green": 1,
-          "red": 1
+          "alpha": 0.12,
+          "blue": 0,
+          "green": 0,
+          "red": 0
         },
         "fillType": 0,
-        "isEnabled": true,
+        "isEnabled": false,
         "position": 1,
         "thickness": 1
       }
     ],
+    "do_objectID": "6D185A99-298D-4536-8C04-265FD74C90E0",
     "endMarkerType": 0,
     "fills": [
       {
         "_class": "fill",
         "color": {
           "_class": "color",
-          "alpha": 0.1,
-          "blue": 1,
-          "green": 1,
-          "red": 1
+          "alpha": 0.54,
+          "blue": 0,
+          "green": 0,
+          "red": 0
         },
         "fillType": 0,
         "isEnabled": true,
@@ -119,6 +121,6 @@
     ],
     "miterLimit": 10,
     "startMarkerType": 0,
-    "windingRule": 0
+    "windingRule": 1
   }
 }

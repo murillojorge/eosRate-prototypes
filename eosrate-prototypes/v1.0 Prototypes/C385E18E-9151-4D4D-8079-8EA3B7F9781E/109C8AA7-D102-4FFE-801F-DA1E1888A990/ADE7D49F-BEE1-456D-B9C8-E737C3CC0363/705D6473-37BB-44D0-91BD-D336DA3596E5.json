@@ -17,24 +17,25 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "Roboto-Regular",
-              "size": 19
+              "size": 21
             }
           },
-          "kerning": 0.5277778,
+          "kerning": 0.375,
           "ligature": 0,
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 3,
             "allowsDefaultTighteningForTruncation": 0,
             "maximumLineHeight": 28,
-            "minimumLineHeight": 28
+            "minimumLineHeight": 28,
+            "paragraphSpacing": 20
           }
         },
-        "length": 320,
+        "length": 324,
         "location": 0
       }
     ],
-    "string": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque dictum enim a lacus efficitur efficitur. Integer placerat porta dictum enim a lacus efficitur efficitur. Integer placerat porta urna, vitae rhoncus mi scelerisque non. Aliquam sed pulvinar massa, nec dictum lectus. Praesent bibendum at elit eu fermentum. "
+    "string": "Our goal is to capture the collective opinion, or “wisdom of the crowd”, and measure if voter sentiment is actually reflected in voting patterns. EOS Rate strives to be a visually appealing tool that helps token holders make an informed vote for the best Block Producers and ultimately strengthen the EOS network as a whole."
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -53,12 +54,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 234,
+    "height": 205,
     "width": 487,
     "x": 13,
-    "y": 131
+    "y": 124
   },
-  "glyphBounds": "{{0, 6}, {487, 184}}",
+  "glyphBounds": "{{0, 6}, {487, 189}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -67,15 +68,16 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Lorem ipsum dolor si",
+  "name": "Our goal is to captu",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "DACD889A-F31D-4633-8AF5-66FDAF830065",
+  "sharedStyleID": "CA591ACA-6684-4C22-88D3-FF80BD97FF7E",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "60D5E046-CCBF-4A4F-B3FA-15F8A5C10F4D",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
@@ -93,17 +95,18 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "Roboto-Regular",
-            "size": 19
+            "size": 21
           }
         },
-        "kerning": 0.5277778,
+        "kerning": 0.375,
         "ligature": 0,
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 3,
           "allowsDefaultTighteningForTruncation": 0,
           "maximumLineHeight": 28,
-          "minimumLineHeight": 28
+          "minimumLineHeight": 28,
+          "paragraphSpacing": 20
         }
       },
       "verticalAlignment": 0
